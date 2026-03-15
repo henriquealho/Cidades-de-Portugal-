@@ -1,3243 +1,3243 @@
 [
   {
     "id": 2272379,
-    "nome": "A dos Cunhados",
+    "name": "A dos Cunhados",
     "lat": 39.15237,
     "lon": -9.2972,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2272447,
-    "nome": "Abrantes",
+    "name": "Abrantes",
     "lat": 39.466671,
     "lon": -8.2,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2743428,
-    "nome": "Abraveses",
+    "name": "Abraveses",
     "lat": 40.68137,
     "lon": -7.92102,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2743407,
-    "nome": "Adaufe",
+    "name": "Adaufe",
     "lat": 41.587318,
     "lon": -8.39817,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2743325,
-    "nome": "Aguada de Cima",
+    "name": "Aguada de Cima",
     "lat": 40.522911,
     "lon": -8.427,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2743298,
-    "nome": "Aguçadoura",
+    "name": "Aguçadoura",
     "lat": 41.431759,
     "lon": -8.78038,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2743233,
-    "nome": "Albergaria-a-Velha",
+    "name": "Albergaria-a-Velha",
     "lat": 40.69318,
     "lon": -8.47994,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2272222,
-    "nome": "Albufeira",
+    "name": "Albufeira",
     "lat": 37.088188,
     "lon": -8.2503,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2272215,
-    "nome": "Alcabideche",
+    "name": "Alcabideche",
     "lat": 38.733662,
     "lon": -9.40928,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2272197,
-    "nome": "Alcains",
+    "name": "Alcains",
     "lat": 39.91642,
     "lon": -7.45655,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2272190,
-    "nome": "Alcanede",
+    "name": "Alcanede",
     "lat": 39.415009,
     "lon": -8.82189,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2272189,
-    "nome": "Alcanena",
+    "name": "Alcanena",
     "lat": 39.459,
     "lon": -8.66892,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2272147,
-    "nome": "Alcobaça",
+    "name": "Alcobaça",
     "lat": 39.552231,
     "lon": -8.9775,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2272144,
-    "nome": "Alcochete",
+    "name": "Alcochete",
     "lat": 38.755341,
     "lon": -8.96086,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2272143,
-    "nome": "Alcoentre",
+    "name": "Alcoentre",
     "lat": 39.208569,
     "lon": -8.95953,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2272212,
-    "nome": "Alcácer do Sal",
+    "name": "Alcácer do Sal",
     "lat": 38.37326,
     "lon": -8.51444,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2272091,
-    "nome": "Aldeia de Paio Pires",
+    "name": "Aldeia de Paio Pires",
     "lat": 38.616669,
     "lon": -9.08333,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2272036,
-    "nome": "Alenquer",
+    "name": "Alenquer",
     "lat": 39.05315,
     "lon": -9.00928,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2743095,
-    "nome": "Alfena",
+    "name": "Alfena",
     "lat": 41.23671,
     "lon": -8.52454,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2272010,
-    "nome": "Alferrarede",
+    "name": "Alferrarede",
     "lat": 39.48333,
     "lon": -8.16667,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271985,
-    "nome": "Algés",
+    "name": "Algés",
     "lat": 38.70245,
     "lon": -9.22936,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2743076,
-    "nome": "Alhadas",
+    "name": "Alhadas",
     "lat": 40.186069,
     "lon": -8.79057,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271975,
-    "nome": "Alhandra",
+    "name": "Alhandra",
     "lat": 38.927319,
     "lon": -9.00864,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271970,
-    "nome": "Alhos Vedros",
+    "name": "Alhos Vedros",
     "lat": 38.654861,
     "lon": -9.02368,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271968,
-    "nome": "Aljezur",
+    "name": "Aljezur",
     "lat": 37.319149,
     "lon": -8.8033,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271966,
-    "nome": "Aljubarrota",
+    "name": "Aljubarrota",
     "lat": 39.567162,
     "lon": -8.92925,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271965,
-    "nome": "Aljustrel",
+    "name": "Aljustrel",
     "lat": 37.87759,
     "lon": -8.16516,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271961,
-    "nome": "Almada",
+    "name": "Almada",
     "lat": 38.67902,
     "lon": -9.1569,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271947,
-    "nome": "Almancil",
+    "name": "Almancil",
     "lat": 37.086861,
     "lon": -8.03074,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271945,
-    "nome": "Almargem",
+    "name": "Almargem",
     "lat": 38.844849,
     "lon": -9.27316,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271926,
-    "nome": "Almeirim",
+    "name": "Almeirim",
     "lat": 39.20903,
     "lon": -8.61643,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271878,
-    "nome": "Alpiarça",
+    "name": "Alpiarça",
     "lat": 39.257118,
     "lon": -8.58187,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271841,
-    "nome": "Alter do Chão",
+    "name": "Alter do Chão",
     "lat": 39.197411,
     "lon": -7.65893,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271782,
-    "nome": "Alvor",
+    "name": "Alvor",
     "lat": 37.12994,
     "lon": -8.59174,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271772,
-    "nome": "Amadora",
+    "name": "Amadora",
     "lat": 38.753819,
     "lon": -9.23083,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742965,
-    "nome": "Amarante",
+    "name": "Amarante",
     "lat": 41.272709,
     "lon": -8.08246,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271682,
-    "nome": "Amor",
+    "name": "Amor",
     "lat": 39.804039,
     "lon": -8.85984,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271680,
-    "nome": "Amora",
+    "name": "Amora",
     "lat": 38.629608,
     "lon": -9.11557,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 3373348,
-    "nome": "Angra do Heroísmo",
+    "name": "Angra do Heroísmo",
     "lat": 38.650002,
     "lon": -27.216669,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742868,
-    "nome": "Anta",
+    "name": "Anta",
     "lat": 41.266338,
     "lon": -8.62844,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742856,
-    "nome": "Antas",
+    "name": "Antas",
     "lat": 41.736439,
     "lon": -8.30888,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271623,
-    "nome": "Apelação",
+    "name": "Apelação",
     "lat": 38.813869,
     "lon": -9.13225,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742837,
-    "nome": "Apúlia",
+    "name": "Apúlia",
     "lat": 41.485119,
     "lon": -8.76413,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742833,
-    "nome": "Aradas",
+    "name": "Aradas",
     "lat": 40.620838,
     "lon": -8.64195,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742827,
-    "nome": "Arazede",
+    "name": "Arazede",
     "lat": 40.28627,
     "lon": -8.64999,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271598,
-    "nome": "Arco da Calheta",
+    "name": "Arco da Calheta",
     "lat": 32.715019,
     "lon": -17.14974,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742811,
-    "nome": "Arcos",
+    "name": "Arcos",
     "lat": 40.447788,
     "lon": -8.44171,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742797,
-    "nome": "Arcozelo",
+    "name": "Arcozelo",
     "lat": 41.05328,
     "lon": -8.64326,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742765,
-    "nome": "Areosa",
+    "name": "Areosa",
     "lat": 41.717789,
     "lon": -8.85707,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742757,
-    "nome": "Arganil",
+    "name": "Arganil",
     "lat": 40.218262,
     "lon": -8.05403,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742750,
-    "nome": "Argoncilhe",
+    "name": "Argoncilhe",
     "lat": 41.02541,
     "lon": -8.53885,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271542,
-    "nome": "Armação de Pêra",
+    "name": "Armação de Pêra",
     "lat": 37.102558,
     "lon": -8.35695,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742702,
-    "nome": "Aroes",
+    "name": "Aroes",
     "lat": 41.455528,
     "lon": -8.21419,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271473,
-    "nome": "Arrentela",
+    "name": "Arrentela",
     "lat": 38.616669,
     "lon": -9.1,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742681,
-    "nome": "Arrifana",
+    "name": "Arrifana",
     "lat": 40.915649,
     "lon": -8.49657,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 3373329,
-    "nome": "Arrifes",
+    "name": "Arrifes",
     "lat": 37.76667,
     "lon": -25.700001,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271438,
-    "nome": "Arruda dos Vinhos",
+    "name": "Arruda dos Vinhos",
     "lat": 38.984112,
     "lon": -9.07746,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271354,
-    "nome": "Atouguia da Baleia",
+    "name": "Atouguia da Baleia",
     "lat": 39.338139,
     "lon": -9.3263,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742617,
-    "nome": "Avanca",
+    "name": "Avanca",
     "lat": 40.807709,
     "lon": -8.5722,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271350,
-    "nome": "Aveiras de Cima",
+    "name": "Aveiras de Cima",
     "lat": 39.137959,
     "lon": -8.89932,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742611,
-    "nome": "Aveiro",
+    "name": "Aveiro",
     "lat": 40.644272,
     "lon": -8.64554,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742578,
-    "nome": "Aver-o-Mar",
+    "name": "Aver-o-Mar",
     "lat": 41.40778,
     "lon": -8.78118,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742577,
-    "nome": "Aves",
+    "name": "Aves",
     "lat": 41.370338,
     "lon": -8.4101,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742565,
-    "nome": "Avintes",
+    "name": "Avintes",
     "lat": 41.11747,
     "lon": -8.54986,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271337,
-    "nome": "Azambuja",
+    "name": "Azambuja",
     "lat": 39.07029,
     "lon": -8.86822,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742557,
-    "nome": "Azenha",
+    "name": "Azenha",
     "lat": 41.076511,
     "lon": -8.62468,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742506,
-    "nome": "Baguim do Monte",
+    "name": "Baguim do Monte",
     "lat": 41.19392,
     "lon": -8.54133,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742458,
-    "nome": "Baltar",
+    "name": "Baltar",
     "lat": 41.18512,
     "lon": -8.37344,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271140,
-    "nome": "Barcarena",
+    "name": "Barcarena",
     "lat": 38.732449,
     "lon": -9.28,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742416,
-    "nome": "Barcelos",
+    "name": "Barcelos",
     "lat": 41.538761,
     "lon": -8.61505,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271071,
-    "nome": "Barreiro",
+    "name": "Barreiro",
     "lat": 38.663139,
     "lon": -9.0724,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742330,
-    "nome": "Barrosas",
+    "name": "Barrosas",
     "lat": 41.355339,
     "lon": -8.29943,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2271006,
-    "nome": "Batalha",
+    "name": "Batalha",
     "lat": 39.660252,
     "lon": -8.82475,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742309,
-    "nome": "Beduído",
+    "name": "Beduído",
     "lat": 40.764271,
     "lon": -8.5611,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270981,
-    "nome": "Belas",
+    "name": "Belas",
     "lat": 38.77721,
     "lon": -9.26078,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270940,
-    "nome": "Benavente",
+    "name": "Benavente",
     "lat": 38.979191,
     "lon": -8.80759,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270935,
-    "nome": "Benedita",
+    "name": "Benedita",
     "lat": 39.424702,
     "lon": -8.96996,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270813,
-    "nome": "Bobadela",
+    "name": "Bobadela",
     "lat": 38.807739,
     "lon": -9.09925,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270774,
-    "nome": "Boliqueime",
+    "name": "Boliqueime",
     "lat": 37.13718,
     "lon": -8.1582,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270770,
-    "nome": "Bombarral",
+    "name": "Bombarral",
     "lat": 39.267231,
     "lon": -9.15795,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270755,
-    "nome": "Borba",
+    "name": "Borba",
     "lat": 38.805531,
     "lon": -7.45465,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742051,
-    "nome": "Bougado",
+    "name": "Bougado",
     "lat": 41.33979,
     "lon": -8.5518,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742032,
-    "nome": "Braga",
+    "name": "Braga",
     "lat": 41.55032,
     "lon": -8.42005,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742027,
-    "nome": "Bragança",
+    "name": "Bragança",
     "lat": 41.80582,
     "lon": -6.75719,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742024,
-    "nome": "Branca",
+    "name": "Branca",
     "lat": 40.766529,
     "lon": -8.48262,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2741985,
-    "nome": "Brito",
+    "name": "Brito",
     "lat": 41.45821,
     "lon": -8.36103,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2741961,
-    "nome": "Buarcos",
+    "name": "Buarcos",
     "lat": 40.166039,
     "lon": -8.8768,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270649,
-    "nome": "Bucelas",
+    "name": "Bucelas",
     "lat": 38.901932,
     "lon": -9.11885,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270486,
-    "nome": "Cacilhas",
+    "name": "Cacilhas",
     "lat": 38.687729,
     "lon": -9.14663,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270503,
-    "nome": "Cacém",
+    "name": "Cacém",
     "lat": 38.766979,
     "lon": -9.29793,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270437,
-    "nome": "Caldas da Rainha",
+    "name": "Caldas da Rainha",
     "lat": 39.403259,
     "lon": -9.13839,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2741738,
-    "nome": "Caldas de Vizela",
+    "name": "Caldas de Vizela",
     "lat": 41.382118,
     "lon": -8.3089,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2741728,
-    "nome": "Caldelas",
+    "name": "Caldelas",
     "lat": 41.671009,
     "lon": -8.38148,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2741724,
-    "nome": "Calendário",
+    "name": "Calendário",
     "lat": 41.40361,
     "lon": -8.52967,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270386,
-    "nome": "Camacha",
+    "name": "Camacha",
     "lat": 32.679192,
     "lon": -16.84462,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270385,
-    "nome": "Camacha",
+    "name": "Camacha",
     "lat": 33.083328,
     "lon": -16.33333,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270377,
-    "nome": "Camarate",
+    "name": "Camarate",
     "lat": 38.803581,
     "lon": -9.12808,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270361,
-    "nome": "Campanário",
+    "name": "Campanário",
     "lat": 32.665779,
     "lon": -17.035761,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2741648,
-    "nome": "Campo",
+    "name": "Campo",
     "lat": 41.185162,
     "lon": -8.46493,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2741649,
-    "nome": "Campo",
+    "name": "Campo",
     "lat": 40.710861,
     "lon": -7.91445,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270336,
-    "nome": "Campo Maior",
+    "name": "Campo Maior",
     "lat": 39.017738,
     "lon": -7.06497,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2741583,
-    "nome": "Candoso",
+    "name": "Candoso",
     "lat": 41.427681,
     "lon": -8.32166,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2741566,
-    "nome": "Canelas",
+    "name": "Canelas",
     "lat": 41.083328,
     "lon": -8.6,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270290,
-    "nome": "Caneças",
+    "name": "Caneças",
     "lat": 38.81321,
     "lon": -9.22679,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2741551,
-    "nome": "Canidelo",
+    "name": "Canidelo",
     "lat": 41.12402,
     "lon": -8.65104,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270266,
-    "nome": "Caniçal",
+    "name": "Caniçal",
     "lat": 32.738338,
     "lon": -16.738359,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270258,
-    "nome": "Caniço",
+    "name": "Caniço",
     "lat": 32.633331,
     "lon": -16.85,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2741547,
-    "nome": "Cantanhede",
+    "name": "Cantanhede",
     "lat": 40.34671,
     "lon": -8.5942,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270229,
-    "nome": "Caparica",
+    "name": "Caparica",
     "lat": 38.666672,
     "lon": -9.2,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270211,
-    "nome": "Caranguejeira",
+    "name": "Caranguejeira",
     "lat": 39.746189,
     "lon": -8.7074,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270184,
-    "nome": "Carcavelos",
+    "name": "Carcavelos",
     "lat": 38.691051,
     "lon": -9.32215,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270157,
-    "nome": "Carnaxide",
+    "name": "Carnaxide",
     "lat": 38.727058,
     "lon": -9.24671,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270084,
-    "nome": "Carregado",
+    "name": "Carregado",
     "lat": 39.023621,
     "lon": -8.97692,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2741405,
-    "nome": "Carregal do Sal",
+    "name": "Carregal do Sal",
     "lat": 40.433331,
     "lon": -8.0,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270023,
-    "nome": "Cartaxo",
+    "name": "Cartaxo",
     "lat": 39.160221,
     "lon": -8.78741,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2741266,
-    "nome": "Carvalhosa",
+    "name": "Carvalhosa",
     "lat": 41.300571,
     "lon": -8.3608,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2269946,
-    "nome": "Carvoeiro",
+    "name": "Carvoeiro",
     "lat": 37.090511,
     "lon": -8.45381,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2269594,
-    "nome": "Cascais",
+    "name": "Cascais",
     "lat": 38.697899,
     "lon": -9.42146,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2269557,
-    "nome": "Castanheira de Pêra",
+    "name": "Castanheira de Pêra",
     "lat": 40.007172,
     "lon": -8.21048,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2269556,
-    "nome": "Castanheira do Ribatejo",
+    "name": "Castanheira do Ribatejo",
     "lat": 38.992981,
     "lon": -8.97346,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2269514,
-    "nome": "Castelo Branco",
+    "name": "Castelo Branco",
     "lat": 39.822189,
     "lon": -7.49087,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2269508,
-    "nome": "Castelo de Vide",
+    "name": "Castelo de Vide",
     "lat": 39.416241,
     "lon": -7.4568,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2740992,
-    "nome": "Castelões de Cepeda",
+    "name": "Castelões de Cepeda",
     "lat": 41.202648,
     "lon": -8.33516,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2740974,
-    "nome": "Castro Daire",
+    "name": "Castro Daire",
     "lat": 40.898399,
     "lon": -7.9338,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2269496,
-    "nome": "Castro Marim",
+    "name": "Castro Marim",
     "lat": 37.22068,
     "lon": -7.4435,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2269494,
-    "nome": "Castro Verde",
+    "name": "Castro Verde",
     "lat": 37.69828,
     "lon": -8.08581,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2269413,
-    "nome": "Cercal",
+    "name": "Cercal",
     "lat": 37.806011,
     "lon": -8.67153,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2269282,
-    "nome": "Charneca",
+    "name": "Charneca",
     "lat": 38.62059,
     "lon": -9.19149,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2740761,
-    "nome": "Chaves",
+    "name": "Chaves",
     "lat": 41.740189,
     "lon": -7.46879,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2740637,
-    "nome": "Coimbra",
+    "name": "Coimbra",
     "lat": 40.205639,
     "lon": -8.41955,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2269142,
-    "nome": "Colares",
+    "name": "Colares",
     "lat": 38.799221,
     "lon": -9.44691,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2740593,
-    "nome": "Condeixa-a-Nova",
+    "name": "Condeixa-a-Nova",
     "lat": 40.11573,
     "lon": -8.49834,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2269041,
-    "nome": "Corroios",
+    "name": "Corroios",
     "lat": 38.64502,
     "lon": -9.14843,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2740519,
-    "nome": "Cortegaça",
+    "name": "Cortegaça",
     "lat": 40.94883,
     "lon": -8.6213,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268946,
-    "nome": "Coruche",
+    "name": "Coruche",
     "lat": 38.959549,
     "lon": -8.52524,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268916,
-    "nome": "Costa de Caparica",
+    "name": "Costa de Caparica",
     "lat": 38.644581,
     "lon": -9.23556,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2740313,
-    "nome": "Covilhã",
+    "name": "Covilhã",
     "lat": 40.286011,
     "lon": -7.50396,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2740221,
-    "nome": "Cucujães",
+    "name": "Cucujães",
     "lat": 40.87413,
     "lon": -8.50687,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2740174,
-    "nome": "Custóias",
+    "name": "Custóias",
     "lat": 41.105301,
     "lon": -7.32097,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2270380,
-    "nome": "Câmara de Lobos",
+    "name": "Câmara de Lobos",
     "lat": 32.633331,
     "lon": -16.966669,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2740159,
-    "nome": "Darque",
+    "name": "Darque",
     "lat": 41.683331,
     "lon": -8.76667,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2740031,
-    "nome": "Eixo",
+    "name": "Eixo",
     "lat": 40.627579,
     "lon": -8.56922,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268615,
-    "nome": "Elvas",
+    "name": "Elvas",
     "lat": 38.8815,
     "lon": -7.16282,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268575,
-    "nome": "Entroncamento",
+    "name": "Entroncamento",
     "lat": 39.466671,
     "lon": -8.46667,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268563,
-    "nome": "Ericeira",
+    "name": "Ericeira",
     "lat": 38.962749,
     "lon": -9.41563,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739997,
-    "nome": "Ermesinde",
+    "name": "Ermesinde",
     "lat": 41.22176,
     "lon": -8.55462,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739915,
-    "nome": "Esmoriz",
+    "name": "Esmoriz",
     "lat": 40.957729,
     "lon": -8.62753,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739868,
-    "nome": "Espinho",
+    "name": "Espinho",
     "lat": 41.007629,
     "lon": -8.64125,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739848,
-    "nome": "Esposende",
+    "name": "Esposende",
     "lat": 41.536098,
     "lon": -8.78201,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739849,
-    "nome": "Esposende",
+    "name": "Esposende",
     "lat": 41.533329,
     "lon": -8.78333,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268436,
-    "nome": "Estoril",
+    "name": "Estoril",
     "lat": 38.705711,
     "lon": -9.39773,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268411,
-    "nome": "Estremoz",
+    "name": "Estremoz",
     "lat": 38.844318,
     "lon": -7.58585,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268437,
-    "nome": "Estômbar",
+    "name": "Estômbar",
     "lat": 37.14629,
     "lon": -8.48505,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739788,
-    "nome": "Fafe",
+    "name": "Fafe",
     "lat": 41.454231,
     "lon": -8.168,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 3373099,
-    "nome": "Fajã de Baixo",
+    "name": "Fajã de Baixo",
     "lat": 37.75,
     "lon": -25.65,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268358,
-    "nome": "Famões",
+    "name": "Famões",
     "lat": 38.78804,
     "lon": -9.21033,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739756,
-    "nome": "Fanzeres",
+    "name": "Fanzeres",
     "lat": 41.170872,
     "lon": -8.5257,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268339,
-    "nome": "Faro",
+    "name": "Faro",
     "lat": 37.019371,
     "lon": -7.93223,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268313,
-    "nome": "Fazendas de Almeirim",
+    "name": "Fazendas de Almeirim",
     "lat": 39.175529,
     "lon": -8.56927,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739723,
-    "nome": "Feira",
+    "name": "Feira",
     "lat": 40.92535,
     "lon": -8.54277,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739656,
-    "nome": "Ferreira",
+    "name": "Ferreira",
     "lat": 41.267181,
     "lon": -8.34434,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268252,
-    "nome": "Ferreira do Alentejo",
+    "name": "Ferreira do Alentejo",
     "lat": 38.049999,
     "lon": -8.03333,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268250,
-    "nome": "Ferreiras",
+    "name": "Ferreiras",
     "lat": 37.129261,
     "lon": -8.23759,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739636,
-    "nome": "Ferreiros",
+    "name": "Ferreiros",
     "lat": 41.349998,
     "lon": -8.55,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739590,
-    "nome": "Figueira da Foz",
+    "name": "Figueira da Foz",
     "lat": 40.150848,
     "lon": -8.86179,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739566,
-    "nome": "Figueiró",
+    "name": "Figueiró",
     "lat": 41.299221,
     "lon": -8.16779,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739613,
-    "nome": "Fiães",
+    "name": "Fiães",
     "lat": 40.994461,
     "lon": -8.52537,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739333,
-    "nome": "Foz do Sousa",
+    "name": "Foz do Sousa",
     "lat": 41.09668,
     "lon": -8.50184,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739286,
-    "nome": "Frazão",
+    "name": "Frazão",
     "lat": 41.258659,
     "lon": -8.40014,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739285,
-    "nome": "Freamunde",
+    "name": "Freamunde",
     "lat": 41.288349,
     "lon": -8.33533,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2267827,
-    "nome": "Funchal",
+    "name": "Funchal",
     "lat": 32.633331,
     "lon": -16.9,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739187,
-    "nome": "Fundão",
+    "name": "Fundão",
     "lat": 40.140251,
     "lon": -7.50135,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268326,
-    "nome": "Fátima",
+    "name": "Fátima",
     "lat": 39.620708,
     "lon": -8.65237,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739153,
-    "nome": "Gafanha da Encarnação",
+    "name": "Gafanha da Encarnação",
     "lat": 40.618061,
     "lon": -8.73303,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739152,
-    "nome": "Gafanha da Nazaré",
+    "name": "Gafanha da Nazaré",
     "lat": 40.636211,
     "lon": -8.71338,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739118,
-    "nome": "Galegos",
+    "name": "Galegos",
     "lat": 41.562679,
     "lon": -8.57204,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739080,
-    "nome": "Gandra",
+    "name": "Gandra",
     "lat": 41.20116,
     "lon": -8.43376,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2739034,
-    "nome": "Gemunde",
+    "name": "Gemunde",
     "lat": 41.267658,
     "lon": -8.64515,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738983,
-    "nome": "Godim",
+    "name": "Godim",
     "lat": 41.17104,
     "lon": -7.80303,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2267624,
-    "nome": "Golegã",
+    "name": "Golegã",
     "lat": 39.404739,
     "lon": -8.48625,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738925,
-    "nome": "Gondomar",
+    "name": "Gondomar",
     "lat": 41.144539,
     "lon": -8.53223,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738803,
-    "nome": "Grijo",
+    "name": "Grijo",
     "lat": 41.028358,
     "lon": -8.58017,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2267538,
-    "nome": "Grândola",
+    "name": "Grândola",
     "lat": 38.177181,
     "lon": -8.56675,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2267489,
-    "nome": "Guia",
+    "name": "Guia",
     "lat": 37.129589,
     "lon": -8.29962,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738766,
-    "nome": "Guifões",
+    "name": "Guifões",
     "lat": 41.20039,
     "lon": -8.66719,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738752,
-    "nome": "Guimarães",
+    "name": "Guimarães",
     "lat": 41.444439,
     "lon": -8.29619,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738737,
-    "nome": "Gulpilhares",
+    "name": "Gulpilhares",
     "lat": 41.08292,
     "lon": -8.62679,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 3372988,
-    "nome": "Horta",
+    "name": "Horta",
     "lat": 38.533329,
     "lon": -28.633329,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738658,
-    "nome": "Joane",
+    "name": "Joane",
     "lat": 41.43906,
     "lon": -8.40846,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738643,
-    "nome": "Jovim",
+    "name": "Jovim",
     "lat": 41.111019,
     "lon": -8.51903,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2267254,
-    "nome": "Lagoa",
+    "name": "Lagoa",
     "lat": 37.135349,
     "lon": -8.45319,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 3372964,
-    "nome": "Lagoa",
+    "name": "Lagoa",
     "lat": 39.049999,
     "lon": -27.98333,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2267226,
-    "nome": "Lagos",
+    "name": "Lagos",
     "lat": 37.10202,
     "lon": -8.67422,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738479,
-    "nome": "Lamas",
+    "name": "Lamas",
     "lat": 40.98597,
     "lon": -8.56923,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738459,
-    "nome": "Lamego",
+    "name": "Lamego",
     "lat": 41.097408,
     "lon": -7.80991,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2267131,
-    "nome": "Laranjeiro",
+    "name": "Laranjeiro",
     "lat": 37.06831,
     "lon": -7.7937,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738362,
-    "nome": "Lavos",
+    "name": "Lavos",
     "lat": 40.093632,
     "lon": -8.82826,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738360,
-    "nome": "Lavra",
+    "name": "Lavra",
     "lat": 41.259361,
     "lon": -8.71849,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2267095,
-    "nome": "Leiria",
+    "name": "Leiria",
     "lat": 39.743622,
     "lon": -8.80705,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738348,
-    "nome": "Leça da Palmeira",
+    "name": "Leça da Palmeira",
     "lat": 41.191002,
     "lon": -8.70027,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738347,
-    "nome": "Leça do Bailio",
+    "name": "Leça do Bailio",
     "lat": 41.214569,
     "lon": -8.61348,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2267067,
-    "nome": "Linda-a-Velha",
+    "name": "Linda-a-Velha",
     "lat": 38.714458,
     "lon": -9.2422,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2267057,
-    "nome": "Lisboa",
+    "name": "Lisboa",
     "lat": 38.716671,
     "lon": -9.13333,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738277,
-    "nome": "Lobão",
+    "name": "Lobão",
     "lat": 40.986641,
     "lon": -8.48566,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738221,
-    "nome": "Lordelo",
+    "name": "Lordelo",
     "lat": 41.374111,
     "lon": -8.38016,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738224,
-    "nome": "Lordelo",
+    "name": "Lordelo",
     "lat": 41.234509,
     "lon": -8.40297,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738208,
-    "nome": "Lorvão",
+    "name": "Lorvão",
     "lat": 40.25938,
     "lon": -8.31684,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266988,
-    "nome": "Loulé",
+    "name": "Loulé",
     "lat": 37.137718,
     "lon": -8.01968,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266977,
-    "nome": "Loures",
+    "name": "Loures",
     "lat": 38.83091,
     "lon": -9.16845,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266974,
-    "nome": "Lourical",
+    "name": "Lourical",
     "lat": 40.003899,
     "lon": -8.73736,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266961,
-    "nome": "Lourinhã",
+    "name": "Lourinhã",
     "lat": 39.23333,
     "lon": -9.31667,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738159,
-    "nome": "Lourosa",
+    "name": "Lourosa",
     "lat": 40.9842,
     "lon": -8.55142,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738154,
-    "nome": "Lousã",
+    "name": "Lousã",
     "lat": 40.11673,
     "lon": -8.24921,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738106,
-    "nome": "Lustosa",
+    "name": "Lustosa",
     "lat": 41.34082,
     "lon": -8.31715,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266938,
-    "nome": "Luz",
+    "name": "Luz",
     "lat": 37.092159,
     "lon": -7.70433,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738082,
-    "nome": "Macedo de Cavaleiros",
+    "name": "Macedo de Cavaleiros",
     "lat": 41.538158,
     "lon": -6.9611,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266914,
-    "nome": "Maceira",
+    "name": "Maceira",
     "lat": 39.68853,
     "lon": -8.89423,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266895,
-    "nome": "Machico",
+    "name": "Machico",
     "lat": 32.700001,
     "lon": -16.76667,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738052,
-    "nome": "Macieira de Cambra",
+    "name": "Macieira de Cambra",
     "lat": 40.85939,
     "lon": -8.37338,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 3372908,
-    "nome": "Madalena",
+    "name": "Madalena",
     "lat": 38.536419,
     "lon": -28.5266,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738038,
-    "nome": "Madalena",
+    "name": "Madalena",
     "lat": 41.21616,
     "lon": -8.33451,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266865,
-    "nome": "Mafra",
+    "name": "Mafra",
     "lat": 38.937931,
     "lon": -9.32756,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738014,
-    "nome": "Maia",
+    "name": "Maia",
     "lat": 41.235741,
     "lon": -8.6199,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266777,
-    "nome": "Malveira",
+    "name": "Malveira",
     "lat": 38.932129,
     "lon": -9.25778,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737949,
-    "nome": "Mangualde",
+    "name": "Mangualde",
     "lat": 40.604252,
     "lon": -7.76115,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737936,
-    "nome": "Manteigas",
+    "name": "Manteigas",
     "lat": 40.402802,
     "lon": -7.53977,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737914,
-    "nome": "Margaride",
+    "name": "Margaride",
     "lat": 41.36829,
     "lon": -8.20072,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266703,
-    "nome": "Marinha Grande",
+    "name": "Marinha Grande",
     "lat": 39.747688,
     "lon": -8.93228,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266702,
-    "nome": "Marinhais",
+    "name": "Marinhais",
     "lat": 39.047298,
     "lon": -8.70236,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737904,
-    "nome": "Marinhas",
+    "name": "Marinhas",
     "lat": 41.559059,
     "lon": -8.78297,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266633,
-    "nome": "Marvão",
+    "name": "Marvão",
     "lat": 39.393768,
     "lon": -7.37663,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737824,
-    "nome": "Matosinhos",
+    "name": "Matosinhos",
     "lat": 41.182072,
     "lon": -8.68908,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737810,
-    "nome": "Meadela",
+    "name": "Meadela",
     "lat": 41.706539,
     "lon": -8.79628,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737809,
-    "nome": "Mealhada",
+    "name": "Mealhada",
     "lat": 40.378059,
     "lon": -8.44991,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737769,
-    "nome": "Meinedo",
+    "name": "Meinedo",
     "lat": 41.248268,
     "lon": -8.25807,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266411,
-    "nome": "Milharado",
+    "name": "Milharado",
     "lat": 38.947319,
     "lon": -9.19914,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737671,
-    "nome": "Milheiros",
+    "name": "Milheiros",
     "lat": 41.214779,
     "lon": -8.58837,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737669,
-    "nome": "Milheiros de Poiares",
+    "name": "Milheiros de Poiares",
     "lat": 40.921631,
     "lon": -8.46788,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737651,
-    "nome": "Mira",
+    "name": "Mira",
     "lat": 40.428921,
     "lon": -8.73746,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737641,
-    "nome": "Miranda do Corvo",
+    "name": "Miranda do Corvo",
     "lat": 40.093182,
     "lon": -8.33261,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737639,
-    "nome": "Mirandela",
+    "name": "Mirandela",
     "lat": 41.487381,
     "lon": -7.18695,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737599,
-    "nome": "Mogadouro",
+    "name": "Mogadouro",
     "lat": 41.34034,
     "lon": -6.71187,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266319,
-    "nome": "Moita",
+    "name": "Moita",
     "lat": 38.65078,
     "lon": -8.99038,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266272,
-    "nome": "Moncarapacho",
+    "name": "Moncarapacho",
     "lat": 37.088631,
     "lon": -7.78722,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266268,
-    "nome": "Monchique",
+    "name": "Monchique",
     "lat": 37.317749,
     "lon": -8.55529,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2266249,
-    "nome": "Monsanto",
+    "name": "Monsanto",
     "lat": 39.462029,
     "lon": -8.7118,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265927,
-    "nome": "Monte Estoril",
+    "name": "Monte Estoril",
     "lat": 38.702789,
     "lon": -9.41606,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265914,
-    "nome": "Monte Gordo",
+    "name": "Monte Gordo",
     "lat": 37.181919,
     "lon": -7.45225,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265841,
-    "nome": "Monte Redondo",
+    "name": "Monte Redondo",
     "lat": 39.8993,
     "lon": -8.83171,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265888,
-    "nome": "Montemor-o-Novo",
+    "name": "Montemor-o-Novo",
     "lat": 38.648121,
     "lon": -8.21455,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265788,
-    "nome": "Montijo",
+    "name": "Montijo",
     "lat": 38.706749,
     "lon": -8.97388,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737523,
-    "nome": "Monção",
+    "name": "Monção",
     "lat": 42.078918,
     "lon": -8.48076,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737399,
-    "nome": "Moreira",
+    "name": "Moreira",
     "lat": 41.056,
     "lon": -8.38939,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737393,
-    "nome": "Moreira de Cónegos",
+    "name": "Moreira de Cónegos",
     "lat": 41.386799,
     "lon": -8.3394,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265726,
-    "nome": "Moscavide",
+    "name": "Moscavide",
     "lat": 38.779289,
     "lon": -9.10222,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265686,
-    "nome": "Moura",
+    "name": "Moura",
     "lat": 38.140099,
     "lon": -7.44856,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737268,
-    "nome": "Mozelos",
+    "name": "Mozelos",
     "lat": 41.867741,
     "lon": -8.39776,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265552,
-    "nome": "Nazaré",
+    "name": "Nazaré",
     "lat": 39.60289,
     "lon": -9.06836,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737194,
-    "nome": "Negrelos",
+    "name": "Negrelos",
     "lat": 41.349461,
     "lon": -8.40145,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737184,
-    "nome": "Nelas",
+    "name": "Nelas",
     "lat": 40.532162,
     "lon": -7.85152,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737150,
-    "nome": "Nogueira",
+    "name": "Nogueira",
     "lat": 41.242458,
     "lon": -8.58685,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737137,
-    "nome": "Nogueira da Regedoura",
+    "name": "Nogueira da Regedoura",
     "lat": 41.005299,
     "lon": -8.59195,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265494,
-    "nome": "Nossa Senhora do Monte",
+    "name": "Nossa Senhora do Monte",
     "lat": 32.666672,
     "lon": -16.9,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265472,
-    "nome": "Odemira",
+    "name": "Odemira",
     "lat": 37.59798,
     "lon": -8.63972,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265467,
-    "nome": "Odivelas",
+    "name": "Odivelas",
     "lat": 38.79269,
     "lon": -9.1838,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737088,
-    "nome": "Oia",
+    "name": "Oia",
     "lat": 40.542641,
     "lon": -8.53856,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265447,
-    "nome": "Olhão",
+    "name": "Olhão",
     "lat": 37.028599,
     "lon": -7.8411,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737064,
-    "nome": "Olival",
+    "name": "Olival",
     "lat": 41.05024,
     "lon": -8.54416,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265422,
-    "nome": "Olival do Basto",
+    "name": "Olival do Basto",
     "lat": 38.790791,
     "lon": -9.16621,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737053,
-    "nome": "Oliveira",
+    "name": "Oliveira",
     "lat": 41.478191,
     "lon": -8.46965,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737046,
-    "nome": "Oliveira de Azémeis",
+    "name": "Oliveira de Azémeis",
     "lat": 40.841011,
     "lon": -8.47555,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737042,
-    "nome": "Oliveira do Bairro",
+    "name": "Oliveira do Bairro",
     "lat": 40.514599,
     "lon": -8.49386,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737039,
-    "nome": "Oliveira do Douro",
+    "name": "Oliveira do Douro",
     "lat": 41.12466,
     "lon": -8.58463,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737038,
-    "nome": "Oliveira do Hospital",
+    "name": "Oliveira do Hospital",
     "lat": 40.361801,
     "lon": -7.86014,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2737033,
-    "nome": "Oliveirinha",
+    "name": "Oliveirinha",
     "lat": 40.607151,
     "lon": -8.59198,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265388,
-    "nome": "Ourém",
+    "name": "Ourém",
     "lat": 39.641682,
     "lon": -8.5919,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736930,
-    "nome": "Ovar",
+    "name": "Ovar",
     "lat": 40.85862,
     "lon": -8.62513,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265223,
-    "nome": "Palmela",
+    "name": "Palmela",
     "lat": 38.569019,
     "lon": -8.90126,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736792,
-    "nome": "Pampilhosa do Botão",
+    "name": "Pampilhosa do Botão",
     "lat": 40.3358,
     "lon": -8.42738,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736666,
-    "nome": "Pardilho",
+    "name": "Pardilho",
     "lat": 40.799252,
     "lon": -8.62598,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265169,
-    "nome": "Parede",
+    "name": "Parede",
     "lat": 38.692822,
     "lon": -9.35412,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265120,
-    "nome": "Pataias",
+    "name": "Pataias",
     "lat": 39.669781,
     "lon": -8.9958,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265326,
-    "nome": "Paço de Arcos",
+    "name": "Paço de Arcos",
     "lat": 38.69569,
     "lon": -9.29143,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736884,
-    "nome": "Paços de Brandão",
+    "name": "Paços de Brandão",
     "lat": 40.97541,
     "lon": -8.5835,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736883,
-    "nome": "Paços de Ferreira",
+    "name": "Paços de Ferreira",
     "lat": 41.276569,
     "lon": -8.37617,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736521,
-    "nome": "Pedroso",
+    "name": "Pedroso",
     "lat": 41.41103,
     "lon": -8.74897,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736520,
-    "nome": "Pedroucos",
+    "name": "Pedroucos",
     "lat": 41.19315,
     "lon": -8.58167,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736469,
-    "nome": "Penafiel",
+    "name": "Penafiel",
     "lat": 41.208351,
     "lon": -8.28285,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264923,
-    "nome": "Peniche",
+    "name": "Peniche",
     "lat": 39.355801,
     "lon": -9.38112,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736391,
-    "nome": "Perafita",
+    "name": "Perafita",
     "lat": 41.182522,
     "lon": -8.2545,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264811,
-    "nome": "Pero Pinheiro",
+    "name": "Pero Pinheiro",
     "lat": 38.85783,
     "lon": -9.32352,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736327,
-    "nome": "Perozinho",
+    "name": "Perozinho",
     "lat": 41.065128,
     "lon": -8.58532,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736316,
-    "nome": "Peso da Régua",
+    "name": "Peso da Régua",
     "lat": 41.164909,
     "lon": -7.78703,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264736,
-    "nome": "Piedade",
+    "name": "Piedade",
     "lat": 38.666672,
     "lon": -9.15,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264718,
-    "nome": "Pinhal Novo",
+    "name": "Pinhal Novo",
     "lat": 38.631062,
     "lon": -8.91376,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264644,
-    "nome": "Poceirão",
+    "name": "Poceirão",
     "lat": 38.830952,
     "lon": -8.79365,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736124,
-    "nome": "Poiares",
+    "name": "Poiares",
     "lat": 40.210258,
     "lon": -8.25746,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264575,
-    "nome": "Pombal",
+    "name": "Pombal",
     "lat": 39.91674,
     "lon": -8.62847,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 3372783,
-    "nome": "Ponta Delgada",
+    "name": "Ponta Delgada",
     "lat": 37.73333,
     "lon": -25.66667,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264557,
-    "nome": "Ponta do Sol",
+    "name": "Ponta do Sol",
     "lat": 32.666672,
     "lon": -17.1,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736067,
-    "nome": "Ponte",
+    "name": "Ponte",
     "lat": 41.47057,
     "lon": -8.3299,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264538,
-    "nome": "Ponte de Sor",
+    "name": "Ponte de Sor",
     "lat": 39.249641,
     "lon": -8.01009,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2736041,
-    "nome": "Ponte do Lima",
+    "name": "Ponte do Lima",
     "lat": 41.767189,
     "lon": -8.58393,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264527,
-    "nome": "Pontevel",
+    "name": "Pontevel",
     "lat": 39.149448,
     "lon": -8.8388,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264526,
-    "nome": "Pontinha",
+    "name": "Pontinha",
     "lat": 38.767712,
     "lon": -9.19935,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264508,
-    "nome": "Portalegre",
+    "name": "Portalegre",
     "lat": 39.293789,
     "lon": -7.43122,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264456,
-    "nome": "Portimão",
+    "name": "Portimão",
     "lat": 37.138561,
     "lon": -8.53775,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2735943,
-    "nome": "Porto",
+    "name": "Porto",
     "lat": 41.149609,
     "lon": -8.61099,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264412,
-    "nome": "Porto Moniz",
+    "name": "Porto Moniz",
     "lat": 32.849998,
     "lon": -17.16667,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264403,
-    "nome": "Porto Salvo",
+    "name": "Porto Salvo",
     "lat": 38.717449,
     "lon": -9.29833,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264427,
-    "nome": "Porto de Mós",
+    "name": "Porto de Mós",
     "lat": 39.60191,
     "lon": -8.81839,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2735752,
-    "nome": "Prado",
+    "name": "Prado",
     "lat": 41.601528,
     "lon": -8.47137,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264341,
-    "nome": "Pragal",
+    "name": "Pragal",
     "lat": 38.674591,
     "lon": -9.16981,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 3372760,
-    "nome": "Praia da Vitória",
+    "name": "Praia da Vitória",
     "lat": 38.73333,
     "lon": -27.066669,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264314,
-    "nome": "Proença-a-Nova",
+    "name": "Proença-a-Nova",
     "lat": 39.752201,
     "lon": -7.9239,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2735803,
-    "nome": "Póvoa de Lanhoso",
+    "name": "Póvoa de Lanhoso",
     "lat": 41.578732,
     "lon": -8.28197,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264359,
-    "nome": "Póvoa de Santa Iria",
+    "name": "Póvoa de Santa Iria",
     "lat": 38.861012,
     "lon": -9.06453,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264357,
-    "nome": "Póvoa de Santo Adrião",
+    "name": "Póvoa de Santo Adrião",
     "lat": 38.799999,
     "lon": -9.16667,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2735787,
-    "nome": "Póvoa de Varzim",
+    "name": "Póvoa de Varzim",
     "lat": 41.383438,
     "lon": -8.76364,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264299,
-    "nome": "Quarteira",
+    "name": "Quarteira",
     "lat": 37.069462,
     "lon": -8.10064,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264270,
-    "nome": "Queijas",
+    "name": "Queijas",
     "lat": 38.722359,
     "lon": -9.26593,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264268,
-    "nome": "Queluz",
+    "name": "Queluz",
     "lat": 38.756569,
     "lon": -9.25451,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264169,
-    "nome": "Quinta do Anjo",
+    "name": "Quinta do Anjo",
     "lat": 38.567532,
     "lon": -8.94228,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 3372745,
-    "nome": "Rabo de Peixe",
+    "name": "Rabo de Peixe",
     "lat": 37.799999,
     "lon": -25.58333,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264087,
-    "nome": "Ramada",
+    "name": "Ramada",
     "lat": 38.802349,
     "lon": -9.19216,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2735415,
-    "nome": "Real",
+    "name": "Real",
     "lat": 41.638821,
     "lon": -8.18098,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2735377,
-    "nome": "Rebordosa",
+    "name": "Rebordosa",
     "lat": 41.224049,
     "lon": -8.40669,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2735366,
-    "nome": "Recarei",
+    "name": "Recarei",
     "lat": 41.153561,
     "lon": -8.41178,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2264009,
-    "nome": "Redondo",
+    "name": "Redondo",
     "lat": 38.64872,
     "lon": -7.54708,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2735340,
-    "nome": "Refojos de Basto",
+    "name": "Refojos de Basto",
     "lat": 41.51318,
     "lon": -7.99517,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263974,
-    "nome": "Reguengos de Monsaraz",
+    "name": "Reguengos de Monsaraz",
     "lat": 38.425289,
     "lon": -7.53494,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263923,
-    "nome": "Riachos",
+    "name": "Riachos",
     "lat": 39.444721,
     "lon": -8.5142,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263905,
-    "nome": "Ribeira Brava",
+    "name": "Ribeira Brava",
     "lat": 32.650002,
     "lon": -17.066669,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 3372707,
-    "nome": "Ribeira Grande",
+    "name": "Ribeira Grande",
     "lat": 38.51667,
     "lon": -28.700001,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2735167,
-    "nome": "Ribeirão",
+    "name": "Ribeirão",
     "lat": 41.360809,
     "lon": -8.56774,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263823,
-    "nome": "Rio Maior",
+    "name": "Rio Maior",
     "lat": 39.337318,
     "lon": -8.93906,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2735088,
-    "nome": "Rio Meão",
+    "name": "Rio Meão",
     "lat": 40.957748,
     "lon": -8.57818,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2735083,
-    "nome": "Rio Tinto",
+    "name": "Rio Tinto",
     "lat": 41.18259,
     "lon": -8.55811,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2735116,
-    "nome": "Rio de Loba",
+    "name": "Rio de Loba",
     "lat": 40.665958,
     "lon": -7.87781,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263827,
-    "nome": "Rio de Mouro",
+    "name": "Rio de Mouro",
     "lat": 38.77457,
     "lon": -9.3276,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2735012,
-    "nome": "Ronfe",
+    "name": "Ronfe",
     "lat": 41.44146,
     "lon": -8.38412,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 3372677,
-    "nome": "Rosto de Cão",
+    "name": "Rosto de Cão",
     "lat": 37.75,
     "lon": -25.65,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263667,
-    "nome": "Sacavém",
+    "name": "Sacavém",
     "lat": 38.792019,
     "lon": -9.10801,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263650,
-    "nome": "Sagres",
+    "name": "Sagres",
     "lat": 37.00864,
     "lon": -8.94311,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734858,
-    "nome": "Salreu",
+    "name": "Salreu",
     "lat": 40.739712,
     "lon": -8.5572,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263596,
-    "nome": "Salvaterra de Magos",
+    "name": "Salvaterra de Magos",
     "lat": 39.027882,
     "lon": -8.7935,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263586,
-    "nome": "Samora Correia",
+    "name": "Samora Correia",
     "lat": 38.937092,
     "lon": -8.87178,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734809,
-    "nome": "Sande",
+    "name": "Sande",
     "lat": 41.7019,
     "lon": -8.39246,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734803,
-    "nome": "Sandim",
+    "name": "Sandim",
     "lat": 41.03508,
     "lon": -8.507,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734788,
-    "nome": "Sangalhos",
+    "name": "Sangalhos",
     "lat": 40.486778,
     "lon": -8.46968,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263558,
-    "nome": "Santa Bárbara de Nexe",
+    "name": "Santa Bárbara de Nexe",
     "lat": 37.10619,
     "lon": -7.96648,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263547,
-    "nome": "Santa Catarina da Serra",
+    "name": "Santa Catarina da Serra",
     "lat": 39.6796,
     "lon": -8.68679,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263540,
-    "nome": "Santa Cruz",
+    "name": "Santa Cruz",
     "lat": 32.683331,
     "lon": -16.799999,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734729,
-    "nome": "Santa Cruz do Bispo",
+    "name": "Santa Cruz do Bispo",
     "lat": 41.225498,
     "lon": -8.6836,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263523,
-    "nome": "Santa Iria da Azoia",
+    "name": "Santa Iria da Azoia",
     "lat": 38.846291,
     "lon": -9.08748,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263491,
-    "nome": "Santana",
+    "name": "Santana",
     "lat": 32.799999,
     "lon": -16.883329,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263480,
-    "nome": "Santarém",
+    "name": "Santarém",
     "lat": 39.23333,
     "lon": -8.68333,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263458,
-    "nome": "Santiago do Cacém",
+    "name": "Santiago do Cacém",
     "lat": 38.016941,
     "lon": -8.69475,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263438,
-    "nome": "Santo André",
+    "name": "Santo André",
     "lat": 39.055321,
     "lon": -8.24414,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263439,
-    "nome": "Santo André",
+    "name": "Santo André",
     "lat": 38.05444,
     "lon": -8.75212,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263434,
-    "nome": "Santo Antão do Tojal",
+    "name": "Santo Antão do Tojal",
     "lat": 38.851509,
     "lon": -9.13975,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263426,
-    "nome": "Santo António da Charneca",
+    "name": "Santo António da Charneca",
     "lat": 38.62561,
     "lon": -9.03043,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734570,
-    "nome": "Santo Tirso",
+    "name": "Santo Tirso",
     "lat": 41.342571,
     "lon": -8.47746,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734215,
-    "nome": "Seia",
+    "name": "Seia",
     "lat": 40.4151,
     "lon": -7.70859,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734170,
-    "nome": "Selho",
+    "name": "Selho",
     "lat": 41.41938,
     "lon": -8.34599,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734140,
-    "nome": "Senhora da Hora",
+    "name": "Senhora da Hora",
     "lat": 41.186401,
     "lon": -8.65172,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734106,
-    "nome": "Sequeira",
+    "name": "Sequeira",
     "lat": 40.553638,
     "lon": -7.22594,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734069,
-    "nome": "Seroa",
+    "name": "Seroa",
     "lat": 41.26511,
     "lon": -8.42892,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263049,
-    "nome": "Serpa",
+    "name": "Serpa",
     "lat": 37.945808,
     "lon": -7.59754,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262987,
-    "nome": "Sertã",
+    "name": "Sertã",
     "lat": 39.80846,
     "lon": -8.09883,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734032,
-    "nome": "Serzedelo",
+    "name": "Serzedelo",
     "lat": 41.401279,
     "lon": -8.36888,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734028,
-    "nome": "Serzedo",
+    "name": "Serzedo",
     "lat": 41.405022,
     "lon": -8.22926,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262957,
-    "nome": "Sesimbra",
+    "name": "Sesimbra",
     "lat": 38.444511,
     "lon": -9.10149,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262963,
-    "nome": "Setúbal",
+    "name": "Setúbal",
     "lat": 38.524399,
     "lon": -8.8882,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733992,
-    "nome": "Silvalde",
+    "name": "Silvalde",
     "lat": 40.993969,
     "lon": -8.62608,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262944,
-    "nome": "Silveira",
+    "name": "Silveira",
     "lat": 39.111198,
     "lon": -9.3643,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262926,
-    "nome": "Silves",
+    "name": "Silves",
     "lat": 37.189209,
     "lon": -8.43822,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262917,
-    "nome": "Sines",
+    "name": "Sines",
     "lat": 37.956219,
     "lon": -8.86979,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262912,
-    "nome": "Sintra",
+    "name": "Sintra",
     "lat": 38.800968,
     "lon": -9.37826,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733941,
-    "nome": "Sobrado",
+    "name": "Sobrado",
     "lat": 41.210411,
     "lon": -8.45488,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262867,
-    "nome": "Sobralinho",
+    "name": "Sobralinho",
     "lat": 38.91703,
     "lon": -9.02656,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262865,
-    "nome": "Sobreda",
+    "name": "Sobreda",
     "lat": 38.649609,
     "lon": -9.18977,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733902,
-    "nome": "Sobreira",
+    "name": "Sobreira",
     "lat": 41.523708,
     "lon": -7.80234,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733851,
-    "nome": "Soure",
+    "name": "Soure",
     "lat": 40.059891,
     "lon": -8.62605,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733812,
-    "nome": "Souto",
+    "name": "Souto",
     "lat": 40.986752,
     "lon": -8.6223,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262815,
-    "nome": "Souto da Carpalhosa",
+    "name": "Souto da Carpalhosa",
     "lat": 39.845692,
     "lon": -8.82332,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734246,
-    "nome": "Sátão",
+    "name": "Sátão",
     "lat": 40.741779,
     "lon": -7.73286,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263393,
-    "nome": "São Bartolomeu de Messines",
+    "name": "São Bartolomeu de Messines",
     "lat": 37.260239,
     "lon": -8.2867,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263377,
-    "nome": "São Brás de Alportel",
+    "name": "São Brás de Alportel",
     "lat": 37.153099,
     "lon": -7.88752,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263352,
-    "nome": "São Domingos de Rana",
+    "name": "São Domingos de Rana",
     "lat": 38.701229,
     "lon": -9.3276,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734523,
-    "nome": "São Félix da Marinha",
+    "name": "São Félix da Marinha",
     "lat": 41.035549,
     "lon": -8.62258,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734493,
-    "nome": "São João",
+    "name": "São João",
     "lat": 40.868019,
     "lon": -8.60672,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734484,
-    "nome": "São João da Madeira",
+    "name": "São João da Madeira",
     "lat": 40.90229,
     "lon": -8.48969,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263326,
-    "nome": "São João da Talha",
+    "name": "São João da Talha",
     "lat": 38.821831,
     "lon": -9.09079,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263327,
-    "nome": "São João das Lampas",
+    "name": "São João das Lampas",
     "lat": 38.87376,
     "lon": -9.39842,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734473,
-    "nome": "São João de Ver",
+    "name": "São João de Ver",
     "lat": 40.955269,
     "lon": -8.55117,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263322,
-    "nome": "São João dos Montes",
+    "name": "São João dos Montes",
     "lat": 38.939442,
     "lon": -9.01892,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734434,
-    "nome": "São Mamede de Infesta",
+    "name": "São Mamede de Infesta",
     "lat": 41.20042,
     "lon": -8.60251,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734395,
-    "nome": "São Miguel do Couto",
+    "name": "São Miguel do Couto",
     "lat": 41.331669,
     "lon": -8.46185,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263245,
-    "nome": "São Pedro da Cadeira",
+    "name": "São Pedro da Cadeira",
     "lat": 39.069832,
     "lon": -9.37174,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734363,
-    "nome": "São Pedro da Cova",
+    "name": "São Pedro da Cova",
     "lat": 41.155079,
     "lon": -8.50412,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734351,
-    "nome": "São Pedro do Sul",
+    "name": "São Pedro do Sul",
     "lat": 40.755371,
     "lon": -8.07265,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734339,
-    "nome": "São Romão do Coronado",
+    "name": "São Romão do Coronado",
     "lat": 41.285439,
     "lon": -8.5632,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2734338,
-    "nome": "São Roque",
+    "name": "São Roque",
     "lat": 40.872162,
     "lon": -8.47149,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 3372589,
-    "nome": "São Roque do Pico",
+    "name": "São Roque do Pico",
     "lat": 38.51667,
     "lon": -28.316669,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263207,
-    "nome": "São Teotônio",
+    "name": "São Teotônio",
     "lat": 37.512821,
     "lon": -8.70708,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2263197,
-    "nome": "São Vicente",
+    "name": "São Vicente",
     "lat": 32.79673,
     "lon": -17.04323,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733660,
-    "nome": "Tavarede",
+    "name": "Tavarede",
     "lat": 40.170792,
     "lon": -8.84566,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262744,
-    "nome": "Tavira",
+    "name": "Tavira",
     "lat": 37.127338,
     "lon": -7.64861,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733628,
-    "nome": "Teixoso",
+    "name": "Teixoso",
     "lat": 40.31448,
     "lon": -7.45759,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733601,
-    "nome": "Telões",
+    "name": "Telões",
     "lat": 41.310539,
     "lon": -8.11101,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262687,
-    "nome": "Terrugem",
+    "name": "Terrugem",
     "lat": 38.70647,
     "lon": -9.28693,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262644,
-    "nome": "Tomar",
+    "name": "Tomar",
     "lat": 39.60199,
     "lon": -8.40924,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733533,
-    "nome": "Tondela",
+    "name": "Tondela",
     "lat": 40.51667,
     "lon": -8.08333,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262582,
-    "nome": "Torres Novas",
+    "name": "Torres Novas",
     "lat": 39.48114,
     "lon": -8.53949,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262581,
-    "nome": "Torres Vedras",
+    "name": "Torres Vedras",
     "lat": 39.091091,
     "lon": -9.2586,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262544,
-    "nome": "Trafaria",
+    "name": "Trafaria",
     "lat": 38.672218,
     "lon": -9.23268,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262540,
-    "nome": "Tramagal",
+    "name": "Tramagal",
     "lat": 39.450001,
     "lon": -8.25,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262478,
-    "nome": "Turquel",
+    "name": "Turquel",
     "lat": 39.464119,
     "lon": -8.97743,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262465,
-    "nome": "Unhos",
+    "name": "Unhos",
     "lat": 38.82589,
     "lon": -9.12231,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733304,
-    "nome": "Urgeses",
+    "name": "Urgeses",
     "lat": 41.4272,
     "lon": -8.29796,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733272,
-    "nome": "Vagos",
+    "name": "Vagos",
     "lat": 40.556,
     "lon": -8.68175,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733262,
-    "nome": "Valadares",
+    "name": "Valadares",
     "lat": 41.147369,
     "lon": -7.9812,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733249,
-    "nome": "Valbom",
+    "name": "Valbom",
     "lat": 41.132469,
     "lon": -8.56414,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2262373,
-    "nome": "Vale da Amoreira",
+    "name": "Vale da Amoreira",
     "lat": 39.069691,
     "lon": -7.69849,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733153,
-    "nome": "Vale de Cambra",
+    "name": "Vale de Cambra",
     "lat": 40.849701,
     "lon": -8.39389,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2733038,
-    "nome": "Valega",
+    "name": "Valega",
     "lat": 40.836288,
     "lon": -8.58061,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 6697257,
-    "nome": "Valença",
+    "name": "Valença",
     "lat": 42.024181,
     "lon": -8.63474,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732980,
-    "nome": "Valongo",
+    "name": "Valongo",
     "lat": 40.616669,
     "lon": -8.45,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732978,
-    "nome": "Valongo",
+    "name": "Valongo",
     "lat": 41.195011,
     "lon": -8.51027,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732965,
-    "nome": "Valpaços",
+    "name": "Valpaços",
     "lat": 41.60746,
     "lon": -7.31088,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2261760,
-    "nome": "Venda do Pinheiro",
+    "name": "Venda do Pinheiro",
     "lat": 38.923649,
     "lon": -9.23178,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2261740,
-    "nome": "Vendas Novas",
+    "name": "Vendas Novas",
     "lat": 38.677059,
     "lon": -8.45792,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2261732,
-    "nome": "Ventosa",
+    "name": "Ventosa",
     "lat": 39.126961,
     "lon": -9.08424,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2261697,
-    "nome": "Vialonga",
+    "name": "Vialonga",
     "lat": 38.870941,
     "lon": -9.06823,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732773,
-    "nome": "Viana do Castelo",
+    "name": "Viana do Castelo",
     "lat": 41.69323,
     "lon": -8.83287,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2261673,
-    "nome": "Vieira de Leiria",
+    "name": "Vieira de Leiria",
     "lat": 39.86945,
     "lon": -8.93238,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732705,
-    "nome": "Vila Cha",
+    "name": "Vila Cha",
     "lat": 40.866669,
     "lon": -8.46667,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2261639,
-    "nome": "Vila Franca de Xira",
+    "name": "Vila Franca de Xira",
     "lat": 38.95525,
     "lon": -8.98966,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 3372472,
-    "nome": "Vila Franca do Campo",
+    "name": "Vila Franca do Campo",
     "lat": 37.716671,
     "lon": -25.433331,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732626,
-    "nome": "Vila Frescainha",
+    "name": "Vila Frescainha",
     "lat": 41.53846,
     "lon": -8.63971,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732551,
-    "nome": "Vila Nova da Telha",
+    "name": "Vila Nova da Telha",
     "lat": 41.071701,
     "lon": -8.64146,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732547,
-    "nome": "Vila Nova de Famalicão",
+    "name": "Vila Nova de Famalicão",
     "lat": 41.40797,
     "lon": -8.51978,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732544,
-    "nome": "Vila Nova de Gaia",
+    "name": "Vila Nova de Gaia",
     "lat": 41.133629,
     "lon": -8.61742,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2261617,
-    "nome": "Vila Nova de Milfontes",
+    "name": "Vila Nova de Milfontes",
     "lat": 37.72377,
     "lon": -8.78278,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732516,
-    "nome": "Vila Praia de Âncora",
+    "name": "Vila Praia de Âncora",
     "lat": 41.810982,
     "lon": -8.85255,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732438,
-    "nome": "Vila Real",
+    "name": "Vila Real",
     "lat": 41.300621,
     "lon": -7.74413,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2261598,
-    "nome": "Vila Real de Santo António",
+    "name": "Vila Real de Santo António",
     "lat": 37.195,
     "lon": -7.41766,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2261577,
-    "nome": "Vila Viçosa",
+    "name": "Vila Viçosa",
     "lat": 38.777699,
     "lon": -7.41793,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2261651,
-    "nome": "Vila de Porto Santo",
+    "name": "Vila de Porto Santo",
     "lat": 33.049999,
     "lon": -16.33333,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732649,
-    "nome": "Vila do Conde",
+    "name": "Vila do Conde",
     "lat": 41.354809,
     "lon": -8.7434,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732475,
-    "nome": "Vilar de Andorinho",
+    "name": "Vilar de Andorinho",
     "lat": 41.10751,
     "lon": -8.59632,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732444,
-    "nome": "Vilar do Paraíso",
+    "name": "Vilar do Paraíso",
     "lat": 41.089741,
     "lon": -8.6211,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732404,
-    "nome": "Vilarinho",
+    "name": "Vilarinho",
     "lat": 41.35955,
     "lon": -8.33123,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732312,
-    "nome": "Vilela",
+    "name": "Vilela",
     "lat": 41.225109,
     "lon": -7.60338,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732265,
-    "nome": "Viseu",
+    "name": "Viseu",
     "lat": 40.661011,
     "lon": -7.90971,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2732241,
-    "nome": "Vizela",
+    "name": "Vizela",
     "lat": 41.38242,
     "lon": -8.24887,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2743304,
-    "nome": "Águas Santas",
+    "name": "Águas Santas",
     "lat": 41.210609,
     "lon": -8.5866,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2743292,
-    "nome": "Águeda",
+    "name": "Águeda",
     "lat": 40.577202,
     "lon": -8.44442,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2742661,
-    "nome": "Árvore",
+    "name": "Árvore",
     "lat": 41.339218,
     "lon": -8.71806,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2268406,
-    "nome": "Évora",
+    "name": "Évora",
     "lat": 38.566669,
     "lon": -7.9,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2738707,
-    "nome": "Ílhavo",
+    "name": "Ílhavo",
     "lat": 40.599899,
     "lon": -8.66732,
-    "pais": "PT"
+    "country_code": "PT"
   },
   {
     "id": 2265485,
-    "nome": "Óbidos",
+    "name": "Óbidos",
     "lat": 39.36055,
     "lon": -9.1567,
-    "pais": "PT"
+    "country_code": "PT"
   }
 ]

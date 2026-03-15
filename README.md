@@ -28,19 +28,19 @@ O ficheiro [`pt_cities.json`](pt_cities.json) contém um array de objetos com os
 [
   {
     "id": 2267057,
-    "nome": "Lisboa",
+    "name": "Lisboa",
     "lat": 38.716671,
     "lon": -9.13333,
-    "pais": "PT"
+    "country_code": "PT"
   }
 ]
 ```
 
 * **id** — Identificador único da cidade
-* **nome** — Nome da cidade (corretamente acentuado)
+* **name** — Nome da cidade (corretamente acentuado)
 * **lat** — Latitude
 * **lon** — Longitude
-* **pais** — Código do país (ISO 3166-1 alpha-2)
+* **country_code** — Código do país (ISO 3166-1 alpha-2)
 
 ## Base de Dados
 
@@ -61,12 +61,10 @@ Para contribuir, basta fazer *fork* deste repositório, fazer as alterações de
 Pode ser feita a contribuição de:
 * Correção de nomes de cidades (acentuação, grafia)
 * Adição de cidades em falta
-* Exemplos de utilização em novas linguagens de programação
 
 ## Contribuidores
 
 Um muito obrigado aos contribuidores deste projeto.
-* Exemplo [JavaScript](pt_example.js): [@alpha-oliveira](https://github.com/alpha-oliveira)
 
 ## Histórico
 
@@ -74,8 +72,5 @@ Este repositório foi originalmente criado para disponibilizar a lista de cidade
 
 * [`pt_cities.txt`](pt_cities.txt) — Lista original no formato da API OpenWeatherMap
 * [`world_cities.txt`](world_cities.txt) — Lista original de cidades do mundo (OpenWeatherMap)
-* [`pt_example.cs`](pt_example.cs) — Exemplo de leitura do ficheiro `.txt` em C#
-* [`pt_example.java`](pt_example.java) — Exemplo de leitura do ficheiro `.txt` em Java
-* [`pt_example.js`](pt_example.js) — Exemplo de leitura do ficheiro `.txt` em JavaScript
 
 > **Nota:** O link oficial da lista de cidades da OpenWeatherMap (`http://openweathermap.org/help/city_list.txt`) já não se encontra disponível.
