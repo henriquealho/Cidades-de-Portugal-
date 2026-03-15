@@ -1,0 +1,3243 @@
+[
+  {
+    "id": 2272379,
+    "name": "A dos Cunhados",
+    "lat": 39.15237,
+    "lon": -9.2972,
+    "country_code": "PT"
+  },
+  {
+    "id": 2272447,
+    "name": "Abrantes",
+    "lat": 39.466671,
+    "lon": -8.2,
+    "country_code": "PT"
+  },
+  {
+    "id": 2743428,
+    "name": "Abraveses",
+    "lat": 40.68137,
+    "lon": -7.92102,
+    "country_code": "PT"
+  },
+  {
+    "id": 2743407,
+    "name": "Adaufe",
+    "lat": 41.587318,
+    "lon": -8.39817,
+    "country_code": "PT"
+  },
+  {
+    "id": 2743325,
+    "name": "Aguada de Cima",
+    "lat": 40.522911,
+    "lon": -8.427,
+    "country_code": "PT"
+  },
+  {
+    "id": 2743298,
+    "name": "Aguçadoura",
+    "lat": 41.431759,
+    "lon": -8.78038,
+    "country_code": "PT"
+  },
+  {
+    "id": 2743233,
+    "name": "Albergaria-a-Velha",
+    "lat": 40.69318,
+    "lon": -8.47994,
+    "country_code": "PT"
+  },
+  {
+    "id": 2272222,
+    "name": "Albufeira",
+    "lat": 37.088188,
+    "lon": -8.2503,
+    "country_code": "PT"
+  },
+  {
+    "id": 2272215,
+    "name": "Alcabideche",
+    "lat": 38.733662,
+    "lon": -9.40928,
+    "country_code": "PT"
+  },
+  {
+    "id": 2272197,
+    "name": "Alcains",
+    "lat": 39.91642,
+    "lon": -7.45655,
+    "country_code": "PT"
+  },
+  {
+    "id": 2272190,
+    "name": "Alcanede",
+    "lat": 39.415009,
+    "lon": -8.82189,
+    "country_code": "PT"
+  },
+  {
+    "id": 2272189,
+    "name": "Alcanena",
+    "lat": 39.459,
+    "lon": -8.66892,
+    "country_code": "PT"
+  },
+  {
+    "id": 2272147,
+    "name": "Alcobaça",
+    "lat": 39.552231,
+    "lon": -8.9775,
+    "country_code": "PT"
+  },
+  {
+    "id": 2272144,
+    "name": "Alcochete",
+    "lat": 38.755341,
+    "lon": -8.96086,
+    "country_code": "PT"
+  },
+  {
+    "id": 2272143,
+    "name": "Alcoentre",
+    "lat": 39.208569,
+    "lon": -8.95953,
+    "country_code": "PT"
+  },
+  {
+    "id": 2272212,
+    "name": "Alcácer do Sal",
+    "lat": 38.37326,
+    "lon": -8.51444,
+    "country_code": "PT"
+  },
+  {
+    "id": 2272091,
+    "name": "Aldeia de Paio Pires",
+    "lat": 38.616669,
+    "lon": -9.08333,
+    "country_code": "PT"
+  },
+  {
+    "id": 2272036,
+    "name": "Alenquer",
+    "lat": 39.05315,
+    "lon": -9.00928,
+    "country_code": "PT"
+  },
+  {
+    "id": 2743095,
+    "name": "Alfena",
+    "lat": 41.23671,
+    "lon": -8.52454,
+    "country_code": "PT"
+  },
+  {
+    "id": 2272010,
+    "name": "Alferrarede",
+    "lat": 39.48333,
+    "lon": -8.16667,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271985,
+    "name": "Algés",
+    "lat": 38.70245,
+    "lon": -9.22936,
+    "country_code": "PT"
+  },
+  {
+    "id": 2743076,
+    "name": "Alhadas",
+    "lat": 40.186069,
+    "lon": -8.79057,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271975,
+    "name": "Alhandra",
+    "lat": 38.927319,
+    "lon": -9.00864,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271970,
+    "name": "Alhos Vedros",
+    "lat": 38.654861,
+    "lon": -9.02368,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271968,
+    "name": "Aljezur",
+    "lat": 37.319149,
+    "lon": -8.8033,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271966,
+    "name": "Aljubarrota",
+    "lat": 39.567162,
+    "lon": -8.92925,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271965,
+    "name": "Aljustrel",
+    "lat": 37.87759,
+    "lon": -8.16516,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271961,
+    "name": "Almada",
+    "lat": 38.67902,
+    "lon": -9.1569,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271947,
+    "name": "Almancil",
+    "lat": 37.086861,
+    "lon": -8.03074,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271945,
+    "name": "Almargem",
+    "lat": 38.844849,
+    "lon": -9.27316,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271926,
+    "name": "Almeirim",
+    "lat": 39.20903,
+    "lon": -8.61643,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271878,
+    "name": "Alpiarça",
+    "lat": 39.257118,
+    "lon": -8.58187,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271841,
+    "name": "Alter do Chão",
+    "lat": 39.197411,
+    "lon": -7.65893,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271782,
+    "name": "Alvor",
+    "lat": 37.12994,
+    "lon": -8.59174,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271772,
+    "name": "Amadora",
+    "lat": 38.753819,
+    "lon": -9.23083,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742965,
+    "name": "Amarante",
+    "lat": 41.272709,
+    "lon": -8.08246,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271682,
+    "name": "Amor",
+    "lat": 39.804039,
+    "lon": -8.85984,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271680,
+    "name": "Amora",
+    "lat": 38.629608,
+    "lon": -9.11557,
+    "country_code": "PT"
+  },
+  {
+    "id": 3373348,
+    "name": "Angra do Heroísmo",
+    "lat": 38.650002,
+    "lon": -27.216669,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742868,
+    "name": "Anta",
+    "lat": 41.266338,
+    "lon": -8.62844,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742856,
+    "name": "Antas",
+    "lat": 41.736439,
+    "lon": -8.30888,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271623,
+    "name": "Apelação",
+    "lat": 38.813869,
+    "lon": -9.13225,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742837,
+    "name": "Apúlia",
+    "lat": 41.485119,
+    "lon": -8.76413,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742833,
+    "name": "Aradas",
+    "lat": 40.620838,
+    "lon": -8.64195,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742827,
+    "name": "Arazede",
+    "lat": 40.28627,
+    "lon": -8.64999,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271598,
+    "name": "Arco da Calheta",
+    "lat": 32.715019,
+    "lon": -17.14974,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742811,
+    "name": "Arcos",
+    "lat": 40.447788,
+    "lon": -8.44171,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742797,
+    "name": "Arcozelo",
+    "lat": 41.05328,
+    "lon": -8.64326,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742765,
+    "name": "Areosa",
+    "lat": 41.717789,
+    "lon": -8.85707,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742757,
+    "name": "Arganil",
+    "lat": 40.218262,
+    "lon": -8.05403,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742750,
+    "name": "Argoncilhe",
+    "lat": 41.02541,
+    "lon": -8.53885,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271542,
+    "name": "Armação de Pêra",
+    "lat": 37.102558,
+    "lon": -8.35695,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742702,
+    "name": "Aroes",
+    "lat": 41.455528,
+    "lon": -8.21419,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271473,
+    "name": "Arrentela",
+    "lat": 38.616669,
+    "lon": -9.1,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742681,
+    "name": "Arrifana",
+    "lat": 40.915649,
+    "lon": -8.49657,
+    "country_code": "PT"
+  },
+  {
+    "id": 3373329,
+    "name": "Arrifes",
+    "lat": 37.76667,
+    "lon": -25.700001,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271438,
+    "name": "Arruda dos Vinhos",
+    "lat": 38.984112,
+    "lon": -9.07746,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271354,
+    "name": "Atouguia da Baleia",
+    "lat": 39.338139,
+    "lon": -9.3263,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742617,
+    "name": "Avanca",
+    "lat": 40.807709,
+    "lon": -8.5722,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271350,
+    "name": "Aveiras de Cima",
+    "lat": 39.137959,
+    "lon": -8.89932,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742611,
+    "name": "Aveiro",
+    "lat": 40.644272,
+    "lon": -8.64554,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742578,
+    "name": "Aver-o-Mar",
+    "lat": 41.40778,
+    "lon": -8.78118,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742577,
+    "name": "Aves",
+    "lat": 41.370338,
+    "lon": -8.4101,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742565,
+    "name": "Avintes",
+    "lat": 41.11747,
+    "lon": -8.54986,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271337,
+    "name": "Azambuja",
+    "lat": 39.07029,
+    "lon": -8.86822,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742557,
+    "name": "Azenha",
+    "lat": 41.076511,
+    "lon": -8.62468,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742506,
+    "name": "Baguim do Monte",
+    "lat": 41.19392,
+    "lon": -8.54133,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742458,
+    "name": "Baltar",
+    "lat": 41.18512,
+    "lon": -8.37344,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271140,
+    "name": "Barcarena",
+    "lat": 38.732449,
+    "lon": -9.28,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742416,
+    "name": "Barcelos",
+    "lat": 41.538761,
+    "lon": -8.61505,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271071,
+    "name": "Barreiro",
+    "lat": 38.663139,
+    "lon": -9.0724,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742330,
+    "name": "Barrosas",
+    "lat": 41.355339,
+    "lon": -8.29943,
+    "country_code": "PT"
+  },
+  {
+    "id": 2271006,
+    "name": "Batalha",
+    "lat": 39.660252,
+    "lon": -8.82475,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742309,
+    "name": "Beduído",
+    "lat": 40.764271,
+    "lon": -8.5611,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270981,
+    "name": "Belas",
+    "lat": 38.77721,
+    "lon": -9.26078,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270940,
+    "name": "Benavente",
+    "lat": 38.979191,
+    "lon": -8.80759,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270935,
+    "name": "Benedita",
+    "lat": 39.424702,
+    "lon": -8.96996,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270813,
+    "name": "Bobadela",
+    "lat": 38.807739,
+    "lon": -9.09925,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270774,
+    "name": "Boliqueime",
+    "lat": 37.13718,
+    "lon": -8.1582,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270770,
+    "name": "Bombarral",
+    "lat": 39.267231,
+    "lon": -9.15795,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270755,
+    "name": "Borba",
+    "lat": 38.805531,
+    "lon": -7.45465,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742051,
+    "name": "Bougado",
+    "lat": 41.33979,
+    "lon": -8.5518,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742032,
+    "name": "Braga",
+    "lat": 41.55032,
+    "lon": -8.42005,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742027,
+    "name": "Bragança",
+    "lat": 41.80582,
+    "lon": -6.75719,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742024,
+    "name": "Branca",
+    "lat": 40.766529,
+    "lon": -8.48262,
+    "country_code": "PT"
+  },
+  {
+    "id": 2741985,
+    "name": "Brito",
+    "lat": 41.45821,
+    "lon": -8.36103,
+    "country_code": "PT"
+  },
+  {
+    "id": 2741961,
+    "name": "Buarcos",
+    "lat": 40.166039,
+    "lon": -8.8768,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270649,
+    "name": "Bucelas",
+    "lat": 38.901932,
+    "lon": -9.11885,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270486,
+    "name": "Cacilhas",
+    "lat": 38.687729,
+    "lon": -9.14663,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270503,
+    "name": "Cacém",
+    "lat": 38.766979,
+    "lon": -9.29793,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270437,
+    "name": "Caldas da Rainha",
+    "lat": 39.403259,
+    "lon": -9.13839,
+    "country_code": "PT"
+  },
+  {
+    "id": 2741738,
+    "name": "Caldas de Vizela",
+    "lat": 41.382118,
+    "lon": -8.3089,
+    "country_code": "PT"
+  },
+  {
+    "id": 2741728,
+    "name": "Caldelas",
+    "lat": 41.671009,
+    "lon": -8.38148,
+    "country_code": "PT"
+  },
+  {
+    "id": 2741724,
+    "name": "Calendário",
+    "lat": 41.40361,
+    "lon": -8.52967,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270386,
+    "name": "Camacha",
+    "lat": 32.679192,
+    "lon": -16.84462,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270385,
+    "name": "Camacha",
+    "lat": 33.083328,
+    "lon": -16.33333,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270377,
+    "name": "Camarate",
+    "lat": 38.803581,
+    "lon": -9.12808,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270361,
+    "name": "Campanário",
+    "lat": 32.665779,
+    "lon": -17.035761,
+    "country_code": "PT"
+  },
+  {
+    "id": 2741648,
+    "name": "Campo",
+    "lat": 41.185162,
+    "lon": -8.46493,
+    "country_code": "PT"
+  },
+  {
+    "id": 2741649,
+    "name": "Campo",
+    "lat": 40.710861,
+    "lon": -7.91445,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270336,
+    "name": "Campo Maior",
+    "lat": 39.017738,
+    "lon": -7.06497,
+    "country_code": "PT"
+  },
+  {
+    "id": 2741583,
+    "name": "Candoso",
+    "lat": 41.427681,
+    "lon": -8.32166,
+    "country_code": "PT"
+  },
+  {
+    "id": 2741566,
+    "name": "Canelas",
+    "lat": 41.083328,
+    "lon": -8.6,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270290,
+    "name": "Caneças",
+    "lat": 38.81321,
+    "lon": -9.22679,
+    "country_code": "PT"
+  },
+  {
+    "id": 2741551,
+    "name": "Canidelo",
+    "lat": 41.12402,
+    "lon": -8.65104,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270266,
+    "name": "Caniçal",
+    "lat": 32.738338,
+    "lon": -16.738359,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270258,
+    "name": "Caniço",
+    "lat": 32.633331,
+    "lon": -16.85,
+    "country_code": "PT"
+  },
+  {
+    "id": 2741547,
+    "name": "Cantanhede",
+    "lat": 40.34671,
+    "lon": -8.5942,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270229,
+    "name": "Caparica",
+    "lat": 38.666672,
+    "lon": -9.2,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270211,
+    "name": "Caranguejeira",
+    "lat": 39.746189,
+    "lon": -8.7074,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270184,
+    "name": "Carcavelos",
+    "lat": 38.691051,
+    "lon": -9.32215,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270157,
+    "name": "Carnaxide",
+    "lat": 38.727058,
+    "lon": -9.24671,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270084,
+    "name": "Carregado",
+    "lat": 39.023621,
+    "lon": -8.97692,
+    "country_code": "PT"
+  },
+  {
+    "id": 2741405,
+    "name": "Carregal do Sal",
+    "lat": 40.433331,
+    "lon": -8.0,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270023,
+    "name": "Cartaxo",
+    "lat": 39.160221,
+    "lon": -8.78741,
+    "country_code": "PT"
+  },
+  {
+    "id": 2741266,
+    "name": "Carvalhosa",
+    "lat": 41.300571,
+    "lon": -8.3608,
+    "country_code": "PT"
+  },
+  {
+    "id": 2269946,
+    "name": "Carvoeiro",
+    "lat": 37.090511,
+    "lon": -8.45381,
+    "country_code": "PT"
+  },
+  {
+    "id": 2269594,
+    "name": "Cascais",
+    "lat": 38.697899,
+    "lon": -9.42146,
+    "country_code": "PT"
+  },
+  {
+    "id": 2269557,
+    "name": "Castanheira de Pêra",
+    "lat": 40.007172,
+    "lon": -8.21048,
+    "country_code": "PT"
+  },
+  {
+    "id": 2269556,
+    "name": "Castanheira do Ribatejo",
+    "lat": 38.992981,
+    "lon": -8.97346,
+    "country_code": "PT"
+  },
+  {
+    "id": 2269514,
+    "name": "Castelo Branco",
+    "lat": 39.822189,
+    "lon": -7.49087,
+    "country_code": "PT"
+  },
+  {
+    "id": 2269508,
+    "name": "Castelo de Vide",
+    "lat": 39.416241,
+    "lon": -7.4568,
+    "country_code": "PT"
+  },
+  {
+    "id": 2740992,
+    "name": "Castelões de Cepeda",
+    "lat": 41.202648,
+    "lon": -8.33516,
+    "country_code": "PT"
+  },
+  {
+    "id": 2740974,
+    "name": "Castro Daire",
+    "lat": 40.898399,
+    "lon": -7.9338,
+    "country_code": "PT"
+  },
+  {
+    "id": 2269496,
+    "name": "Castro Marim",
+    "lat": 37.22068,
+    "lon": -7.4435,
+    "country_code": "PT"
+  },
+  {
+    "id": 2269494,
+    "name": "Castro Verde",
+    "lat": 37.69828,
+    "lon": -8.08581,
+    "country_code": "PT"
+  },
+  {
+    "id": 2269413,
+    "name": "Cercal",
+    "lat": 37.806011,
+    "lon": -8.67153,
+    "country_code": "PT"
+  },
+  {
+    "id": 2269282,
+    "name": "Charneca",
+    "lat": 38.62059,
+    "lon": -9.19149,
+    "country_code": "PT"
+  },
+  {
+    "id": 2740761,
+    "name": "Chaves",
+    "lat": 41.740189,
+    "lon": -7.46879,
+    "country_code": "PT"
+  },
+  {
+    "id": 2740637,
+    "name": "Coimbra",
+    "lat": 40.205639,
+    "lon": -8.41955,
+    "country_code": "PT"
+  },
+  {
+    "id": 2269142,
+    "name": "Colares",
+    "lat": 38.799221,
+    "lon": -9.44691,
+    "country_code": "PT"
+  },
+  {
+    "id": 2740593,
+    "name": "Condeixa-a-Nova",
+    "lat": 40.11573,
+    "lon": -8.49834,
+    "country_code": "PT"
+  },
+  {
+    "id": 2269041,
+    "name": "Corroios",
+    "lat": 38.64502,
+    "lon": -9.14843,
+    "country_code": "PT"
+  },
+  {
+    "id": 2740519,
+    "name": "Cortegaça",
+    "lat": 40.94883,
+    "lon": -8.6213,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268946,
+    "name": "Coruche",
+    "lat": 38.959549,
+    "lon": -8.52524,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268916,
+    "name": "Costa de Caparica",
+    "lat": 38.644581,
+    "lon": -9.23556,
+    "country_code": "PT"
+  },
+  {
+    "id": 2740313,
+    "name": "Covilhã",
+    "lat": 40.286011,
+    "lon": -7.50396,
+    "country_code": "PT"
+  },
+  {
+    "id": 2740221,
+    "name": "Cucujães",
+    "lat": 40.87413,
+    "lon": -8.50687,
+    "country_code": "PT"
+  },
+  {
+    "id": 2740174,
+    "name": "Custóias",
+    "lat": 41.105301,
+    "lon": -7.32097,
+    "country_code": "PT"
+  },
+  {
+    "id": 2270380,
+    "name": "Câmara de Lobos",
+    "lat": 32.633331,
+    "lon": -16.966669,
+    "country_code": "PT"
+  },
+  {
+    "id": 2740159,
+    "name": "Darque",
+    "lat": 41.683331,
+    "lon": -8.76667,
+    "country_code": "PT"
+  },
+  {
+    "id": 2740031,
+    "name": "Eixo",
+    "lat": 40.627579,
+    "lon": -8.56922,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268615,
+    "name": "Elvas",
+    "lat": 38.8815,
+    "lon": -7.16282,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268575,
+    "name": "Entroncamento",
+    "lat": 39.466671,
+    "lon": -8.46667,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268563,
+    "name": "Ericeira",
+    "lat": 38.962749,
+    "lon": -9.41563,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739997,
+    "name": "Ermesinde",
+    "lat": 41.22176,
+    "lon": -8.55462,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739915,
+    "name": "Esmoriz",
+    "lat": 40.957729,
+    "lon": -8.62753,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739868,
+    "name": "Espinho",
+    "lat": 41.007629,
+    "lon": -8.64125,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739848,
+    "name": "Esposende",
+    "lat": 41.536098,
+    "lon": -8.78201,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739849,
+    "name": "Esposende",
+    "lat": 41.533329,
+    "lon": -8.78333,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268436,
+    "name": "Estoril",
+    "lat": 38.705711,
+    "lon": -9.39773,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268411,
+    "name": "Estremoz",
+    "lat": 38.844318,
+    "lon": -7.58585,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268437,
+    "name": "Estômbar",
+    "lat": 37.14629,
+    "lon": -8.48505,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739788,
+    "name": "Fafe",
+    "lat": 41.454231,
+    "lon": -8.168,
+    "country_code": "PT"
+  },
+  {
+    "id": 3373099,
+    "name": "Fajã de Baixo",
+    "lat": 37.75,
+    "lon": -25.65,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268358,
+    "name": "Famões",
+    "lat": 38.78804,
+    "lon": -9.21033,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739756,
+    "name": "Fanzeres",
+    "lat": 41.170872,
+    "lon": -8.5257,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268339,
+    "name": "Faro",
+    "lat": 37.019371,
+    "lon": -7.93223,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268313,
+    "name": "Fazendas de Almeirim",
+    "lat": 39.175529,
+    "lon": -8.56927,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739723,
+    "name": "Feira",
+    "lat": 40.92535,
+    "lon": -8.54277,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739656,
+    "name": "Ferreira",
+    "lat": 41.267181,
+    "lon": -8.34434,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268252,
+    "name": "Ferreira do Alentejo",
+    "lat": 38.049999,
+    "lon": -8.03333,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268250,
+    "name": "Ferreiras",
+    "lat": 37.129261,
+    "lon": -8.23759,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739636,
+    "name": "Ferreiros",
+    "lat": 41.349998,
+    "lon": -8.55,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739590,
+    "name": "Figueira da Foz",
+    "lat": 40.150848,
+    "lon": -8.86179,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739566,
+    "name": "Figueiró",
+    "lat": 41.299221,
+    "lon": -8.16779,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739613,
+    "name": "Fiães",
+    "lat": 40.994461,
+    "lon": -8.52537,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739333,
+    "name": "Foz do Sousa",
+    "lat": 41.09668,
+    "lon": -8.50184,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739286,
+    "name": "Frazão",
+    "lat": 41.258659,
+    "lon": -8.40014,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739285,
+    "name": "Freamunde",
+    "lat": 41.288349,
+    "lon": -8.33533,
+    "country_code": "PT"
+  },
+  {
+    "id": 2267827,
+    "name": "Funchal",
+    "lat": 32.633331,
+    "lon": -16.9,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739187,
+    "name": "Fundão",
+    "lat": 40.140251,
+    "lon": -7.50135,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268326,
+    "name": "Fátima",
+    "lat": 39.620708,
+    "lon": -8.65237,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739153,
+    "name": "Gafanha da Encarnação",
+    "lat": 40.618061,
+    "lon": -8.73303,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739152,
+    "name": "Gafanha da Nazaré",
+    "lat": 40.636211,
+    "lon": -8.71338,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739118,
+    "name": "Galegos",
+    "lat": 41.562679,
+    "lon": -8.57204,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739080,
+    "name": "Gandra",
+    "lat": 41.20116,
+    "lon": -8.43376,
+    "country_code": "PT"
+  },
+  {
+    "id": 2739034,
+    "name": "Gemunde",
+    "lat": 41.267658,
+    "lon": -8.64515,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738983,
+    "name": "Godim",
+    "lat": 41.17104,
+    "lon": -7.80303,
+    "country_code": "PT"
+  },
+  {
+    "id": 2267624,
+    "name": "Golegã",
+    "lat": 39.404739,
+    "lon": -8.48625,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738925,
+    "name": "Gondomar",
+    "lat": 41.144539,
+    "lon": -8.53223,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738803,
+    "name": "Grijo",
+    "lat": 41.028358,
+    "lon": -8.58017,
+    "country_code": "PT"
+  },
+  {
+    "id": 2267538,
+    "name": "Grândola",
+    "lat": 38.177181,
+    "lon": -8.56675,
+    "country_code": "PT"
+  },
+  {
+    "id": 2267489,
+    "name": "Guia",
+    "lat": 37.129589,
+    "lon": -8.29962,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738766,
+    "name": "Guifões",
+    "lat": 41.20039,
+    "lon": -8.66719,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738752,
+    "name": "Guimarães",
+    "lat": 41.444439,
+    "lon": -8.29619,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738737,
+    "name": "Gulpilhares",
+    "lat": 41.08292,
+    "lon": -8.62679,
+    "country_code": "PT"
+  },
+  {
+    "id": 3372988,
+    "name": "Horta",
+    "lat": 38.533329,
+    "lon": -28.633329,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738658,
+    "name": "Joane",
+    "lat": 41.43906,
+    "lon": -8.40846,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738643,
+    "name": "Jovim",
+    "lat": 41.111019,
+    "lon": -8.51903,
+    "country_code": "PT"
+  },
+  {
+    "id": 2267254,
+    "name": "Lagoa",
+    "lat": 37.135349,
+    "lon": -8.45319,
+    "country_code": "PT"
+  },
+  {
+    "id": 3372964,
+    "name": "Lagoa",
+    "lat": 39.049999,
+    "lon": -27.98333,
+    "country_code": "PT"
+  },
+  {
+    "id": 2267226,
+    "name": "Lagos",
+    "lat": 37.10202,
+    "lon": -8.67422,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738479,
+    "name": "Lamas",
+    "lat": 40.98597,
+    "lon": -8.56923,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738459,
+    "name": "Lamego",
+    "lat": 41.097408,
+    "lon": -7.80991,
+    "country_code": "PT"
+  },
+  {
+    "id": 2267131,
+    "name": "Laranjeiro",
+    "lat": 37.06831,
+    "lon": -7.7937,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738362,
+    "name": "Lavos",
+    "lat": 40.093632,
+    "lon": -8.82826,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738360,
+    "name": "Lavra",
+    "lat": 41.259361,
+    "lon": -8.71849,
+    "country_code": "PT"
+  },
+  {
+    "id": 2267095,
+    "name": "Leiria",
+    "lat": 39.743622,
+    "lon": -8.80705,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738348,
+    "name": "Leça da Palmeira",
+    "lat": 41.191002,
+    "lon": -8.70027,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738347,
+    "name": "Leça do Bailio",
+    "lat": 41.214569,
+    "lon": -8.61348,
+    "country_code": "PT"
+  },
+  {
+    "id": 2267067,
+    "name": "Linda-a-Velha",
+    "lat": 38.714458,
+    "lon": -9.2422,
+    "country_code": "PT"
+  },
+  {
+    "id": 2267057,
+    "name": "Lisboa",
+    "lat": 38.716671,
+    "lon": -9.13333,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738277,
+    "name": "Lobão",
+    "lat": 40.986641,
+    "lon": -8.48566,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738221,
+    "name": "Lordelo",
+    "lat": 41.374111,
+    "lon": -8.38016,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738224,
+    "name": "Lordelo",
+    "lat": 41.234509,
+    "lon": -8.40297,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738208,
+    "name": "Lorvão",
+    "lat": 40.25938,
+    "lon": -8.31684,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266988,
+    "name": "Loulé",
+    "lat": 37.137718,
+    "lon": -8.01968,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266977,
+    "name": "Loures",
+    "lat": 38.83091,
+    "lon": -9.16845,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266974,
+    "name": "Lourical",
+    "lat": 40.003899,
+    "lon": -8.73736,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266961,
+    "name": "Lourinhã",
+    "lat": 39.23333,
+    "lon": -9.31667,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738159,
+    "name": "Lourosa",
+    "lat": 40.9842,
+    "lon": -8.55142,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738154,
+    "name": "Lousã",
+    "lat": 40.11673,
+    "lon": -8.24921,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738106,
+    "name": "Lustosa",
+    "lat": 41.34082,
+    "lon": -8.31715,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266938,
+    "name": "Luz",
+    "lat": 37.092159,
+    "lon": -7.70433,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738082,
+    "name": "Macedo de Cavaleiros",
+    "lat": 41.538158,
+    "lon": -6.9611,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266914,
+    "name": "Maceira",
+    "lat": 39.68853,
+    "lon": -8.89423,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266895,
+    "name": "Machico",
+    "lat": 32.700001,
+    "lon": -16.76667,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738052,
+    "name": "Macieira de Cambra",
+    "lat": 40.85939,
+    "lon": -8.37338,
+    "country_code": "PT"
+  },
+  {
+    "id": 3372908,
+    "name": "Madalena",
+    "lat": 38.536419,
+    "lon": -28.5266,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738038,
+    "name": "Madalena",
+    "lat": 41.21616,
+    "lon": -8.33451,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266865,
+    "name": "Mafra",
+    "lat": 38.937931,
+    "lon": -9.32756,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738014,
+    "name": "Maia",
+    "lat": 41.235741,
+    "lon": -8.6199,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266777,
+    "name": "Malveira",
+    "lat": 38.932129,
+    "lon": -9.25778,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737949,
+    "name": "Mangualde",
+    "lat": 40.604252,
+    "lon": -7.76115,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737936,
+    "name": "Manteigas",
+    "lat": 40.402802,
+    "lon": -7.53977,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737914,
+    "name": "Margaride",
+    "lat": 41.36829,
+    "lon": -8.20072,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266703,
+    "name": "Marinha Grande",
+    "lat": 39.747688,
+    "lon": -8.93228,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266702,
+    "name": "Marinhais",
+    "lat": 39.047298,
+    "lon": -8.70236,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737904,
+    "name": "Marinhas",
+    "lat": 41.559059,
+    "lon": -8.78297,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266633,
+    "name": "Marvão",
+    "lat": 39.393768,
+    "lon": -7.37663,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737824,
+    "name": "Matosinhos",
+    "lat": 41.182072,
+    "lon": -8.68908,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737810,
+    "name": "Meadela",
+    "lat": 41.706539,
+    "lon": -8.79628,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737809,
+    "name": "Mealhada",
+    "lat": 40.378059,
+    "lon": -8.44991,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737769,
+    "name": "Meinedo",
+    "lat": 41.248268,
+    "lon": -8.25807,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266411,
+    "name": "Milharado",
+    "lat": 38.947319,
+    "lon": -9.19914,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737671,
+    "name": "Milheiros",
+    "lat": 41.214779,
+    "lon": -8.58837,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737669,
+    "name": "Milheiros de Poiares",
+    "lat": 40.921631,
+    "lon": -8.46788,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737651,
+    "name": "Mira",
+    "lat": 40.428921,
+    "lon": -8.73746,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737641,
+    "name": "Miranda do Corvo",
+    "lat": 40.093182,
+    "lon": -8.33261,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737639,
+    "name": "Mirandela",
+    "lat": 41.487381,
+    "lon": -7.18695,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737599,
+    "name": "Mogadouro",
+    "lat": 41.34034,
+    "lon": -6.71187,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266319,
+    "name": "Moita",
+    "lat": 38.65078,
+    "lon": -8.99038,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266272,
+    "name": "Moncarapacho",
+    "lat": 37.088631,
+    "lon": -7.78722,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266268,
+    "name": "Monchique",
+    "lat": 37.317749,
+    "lon": -8.55529,
+    "country_code": "PT"
+  },
+  {
+    "id": 2266249,
+    "name": "Monsanto",
+    "lat": 39.462029,
+    "lon": -8.7118,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265927,
+    "name": "Monte Estoril",
+    "lat": 38.702789,
+    "lon": -9.41606,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265914,
+    "name": "Monte Gordo",
+    "lat": 37.181919,
+    "lon": -7.45225,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265841,
+    "name": "Monte Redondo",
+    "lat": 39.8993,
+    "lon": -8.83171,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265888,
+    "name": "Montemor-o-Novo",
+    "lat": 38.648121,
+    "lon": -8.21455,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265788,
+    "name": "Montijo",
+    "lat": 38.706749,
+    "lon": -8.97388,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737523,
+    "name": "Monção",
+    "lat": 42.078918,
+    "lon": -8.48076,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737399,
+    "name": "Moreira",
+    "lat": 41.056,
+    "lon": -8.38939,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737393,
+    "name": "Moreira de Cónegos",
+    "lat": 41.386799,
+    "lon": -8.3394,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265726,
+    "name": "Moscavide",
+    "lat": 38.779289,
+    "lon": -9.10222,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265686,
+    "name": "Moura",
+    "lat": 38.140099,
+    "lon": -7.44856,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737268,
+    "name": "Mozelos",
+    "lat": 41.867741,
+    "lon": -8.39776,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265552,
+    "name": "Nazaré",
+    "lat": 39.60289,
+    "lon": -9.06836,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737194,
+    "name": "Negrelos",
+    "lat": 41.349461,
+    "lon": -8.40145,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737184,
+    "name": "Nelas",
+    "lat": 40.532162,
+    "lon": -7.85152,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737150,
+    "name": "Nogueira",
+    "lat": 41.242458,
+    "lon": -8.58685,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737137,
+    "name": "Nogueira da Regedoura",
+    "lat": 41.005299,
+    "lon": -8.59195,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265494,
+    "name": "Nossa Senhora do Monte",
+    "lat": 32.666672,
+    "lon": -16.9,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265472,
+    "name": "Odemira",
+    "lat": 37.59798,
+    "lon": -8.63972,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265467,
+    "name": "Odivelas",
+    "lat": 38.79269,
+    "lon": -9.1838,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737088,
+    "name": "Oia",
+    "lat": 40.542641,
+    "lon": -8.53856,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265447,
+    "name": "Olhão",
+    "lat": 37.028599,
+    "lon": -7.8411,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737064,
+    "name": "Olival",
+    "lat": 41.05024,
+    "lon": -8.54416,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265422,
+    "name": "Olival do Basto",
+    "lat": 38.790791,
+    "lon": -9.16621,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737053,
+    "name": "Oliveira",
+    "lat": 41.478191,
+    "lon": -8.46965,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737046,
+    "name": "Oliveira de Azémeis",
+    "lat": 40.841011,
+    "lon": -8.47555,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737042,
+    "name": "Oliveira do Bairro",
+    "lat": 40.514599,
+    "lon": -8.49386,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737039,
+    "name": "Oliveira do Douro",
+    "lat": 41.12466,
+    "lon": -8.58463,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737038,
+    "name": "Oliveira do Hospital",
+    "lat": 40.361801,
+    "lon": -7.86014,
+    "country_code": "PT"
+  },
+  {
+    "id": 2737033,
+    "name": "Oliveirinha",
+    "lat": 40.607151,
+    "lon": -8.59198,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265388,
+    "name": "Ourém",
+    "lat": 39.641682,
+    "lon": -8.5919,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736930,
+    "name": "Ovar",
+    "lat": 40.85862,
+    "lon": -8.62513,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265223,
+    "name": "Palmela",
+    "lat": 38.569019,
+    "lon": -8.90126,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736792,
+    "name": "Pampilhosa do Botão",
+    "lat": 40.3358,
+    "lon": -8.42738,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736666,
+    "name": "Pardilho",
+    "lat": 40.799252,
+    "lon": -8.62598,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265169,
+    "name": "Parede",
+    "lat": 38.692822,
+    "lon": -9.35412,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265120,
+    "name": "Pataias",
+    "lat": 39.669781,
+    "lon": -8.9958,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265326,
+    "name": "Paço de Arcos",
+    "lat": 38.69569,
+    "lon": -9.29143,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736884,
+    "name": "Paços de Brandão",
+    "lat": 40.97541,
+    "lon": -8.5835,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736883,
+    "name": "Paços de Ferreira",
+    "lat": 41.276569,
+    "lon": -8.37617,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736521,
+    "name": "Pedroso",
+    "lat": 41.41103,
+    "lon": -8.74897,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736520,
+    "name": "Pedroucos",
+    "lat": 41.19315,
+    "lon": -8.58167,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736469,
+    "name": "Penafiel",
+    "lat": 41.208351,
+    "lon": -8.28285,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264923,
+    "name": "Peniche",
+    "lat": 39.355801,
+    "lon": -9.38112,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736391,
+    "name": "Perafita",
+    "lat": 41.182522,
+    "lon": -8.2545,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264811,
+    "name": "Pero Pinheiro",
+    "lat": 38.85783,
+    "lon": -9.32352,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736327,
+    "name": "Perozinho",
+    "lat": 41.065128,
+    "lon": -8.58532,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736316,
+    "name": "Peso da Régua",
+    "lat": 41.164909,
+    "lon": -7.78703,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264736,
+    "name": "Piedade",
+    "lat": 38.666672,
+    "lon": -9.15,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264718,
+    "name": "Pinhal Novo",
+    "lat": 38.631062,
+    "lon": -8.91376,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264644,
+    "name": "Poceirão",
+    "lat": 38.830952,
+    "lon": -8.79365,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736124,
+    "name": "Poiares",
+    "lat": 40.210258,
+    "lon": -8.25746,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264575,
+    "name": "Pombal",
+    "lat": 39.91674,
+    "lon": -8.62847,
+    "country_code": "PT"
+  },
+  {
+    "id": 3372783,
+    "name": "Ponta Delgada",
+    "lat": 37.73333,
+    "lon": -25.66667,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264557,
+    "name": "Ponta do Sol",
+    "lat": 32.666672,
+    "lon": -17.1,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736067,
+    "name": "Ponte",
+    "lat": 41.47057,
+    "lon": -8.3299,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264538,
+    "name": "Ponte de Sor",
+    "lat": 39.249641,
+    "lon": -8.01009,
+    "country_code": "PT"
+  },
+  {
+    "id": 2736041,
+    "name": "Ponte do Lima",
+    "lat": 41.767189,
+    "lon": -8.58393,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264527,
+    "name": "Pontevel",
+    "lat": 39.149448,
+    "lon": -8.8388,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264526,
+    "name": "Pontinha",
+    "lat": 38.767712,
+    "lon": -9.19935,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264508,
+    "name": "Portalegre",
+    "lat": 39.293789,
+    "lon": -7.43122,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264456,
+    "name": "Portimão",
+    "lat": 37.138561,
+    "lon": -8.53775,
+    "country_code": "PT"
+  },
+  {
+    "id": 2735943,
+    "name": "Porto",
+    "lat": 41.149609,
+    "lon": -8.61099,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264412,
+    "name": "Porto Moniz",
+    "lat": 32.849998,
+    "lon": -17.16667,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264403,
+    "name": "Porto Salvo",
+    "lat": 38.717449,
+    "lon": -9.29833,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264427,
+    "name": "Porto de Mós",
+    "lat": 39.60191,
+    "lon": -8.81839,
+    "country_code": "PT"
+  },
+  {
+    "id": 2735752,
+    "name": "Prado",
+    "lat": 41.601528,
+    "lon": -8.47137,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264341,
+    "name": "Pragal",
+    "lat": 38.674591,
+    "lon": -9.16981,
+    "country_code": "PT"
+  },
+  {
+    "id": 3372760,
+    "name": "Praia da Vitória",
+    "lat": 38.73333,
+    "lon": -27.066669,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264314,
+    "name": "Proença-a-Nova",
+    "lat": 39.752201,
+    "lon": -7.9239,
+    "country_code": "PT"
+  },
+  {
+    "id": 2735803,
+    "name": "Póvoa de Lanhoso",
+    "lat": 41.578732,
+    "lon": -8.28197,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264359,
+    "name": "Póvoa de Santa Iria",
+    "lat": 38.861012,
+    "lon": -9.06453,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264357,
+    "name": "Póvoa de Santo Adrião",
+    "lat": 38.799999,
+    "lon": -9.16667,
+    "country_code": "PT"
+  },
+  {
+    "id": 2735787,
+    "name": "Póvoa de Varzim",
+    "lat": 41.383438,
+    "lon": -8.76364,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264299,
+    "name": "Quarteira",
+    "lat": 37.069462,
+    "lon": -8.10064,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264270,
+    "name": "Queijas",
+    "lat": 38.722359,
+    "lon": -9.26593,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264268,
+    "name": "Queluz",
+    "lat": 38.756569,
+    "lon": -9.25451,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264169,
+    "name": "Quinta do Anjo",
+    "lat": 38.567532,
+    "lon": -8.94228,
+    "country_code": "PT"
+  },
+  {
+    "id": 3372745,
+    "name": "Rabo de Peixe",
+    "lat": 37.799999,
+    "lon": -25.58333,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264087,
+    "name": "Ramada",
+    "lat": 38.802349,
+    "lon": -9.19216,
+    "country_code": "PT"
+  },
+  {
+    "id": 2735415,
+    "name": "Real",
+    "lat": 41.638821,
+    "lon": -8.18098,
+    "country_code": "PT"
+  },
+  {
+    "id": 2735377,
+    "name": "Rebordosa",
+    "lat": 41.224049,
+    "lon": -8.40669,
+    "country_code": "PT"
+  },
+  {
+    "id": 2735366,
+    "name": "Recarei",
+    "lat": 41.153561,
+    "lon": -8.41178,
+    "country_code": "PT"
+  },
+  {
+    "id": 2264009,
+    "name": "Redondo",
+    "lat": 38.64872,
+    "lon": -7.54708,
+    "country_code": "PT"
+  },
+  {
+    "id": 2735340,
+    "name": "Refojos de Basto",
+    "lat": 41.51318,
+    "lon": -7.99517,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263974,
+    "name": "Reguengos de Monsaraz",
+    "lat": 38.425289,
+    "lon": -7.53494,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263923,
+    "name": "Riachos",
+    "lat": 39.444721,
+    "lon": -8.5142,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263905,
+    "name": "Ribeira Brava",
+    "lat": 32.650002,
+    "lon": -17.066669,
+    "country_code": "PT"
+  },
+  {
+    "id": 3372707,
+    "name": "Ribeira Grande",
+    "lat": 38.51667,
+    "lon": -28.700001,
+    "country_code": "PT"
+  },
+  {
+    "id": 2735167,
+    "name": "Ribeirão",
+    "lat": 41.360809,
+    "lon": -8.56774,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263823,
+    "name": "Rio Maior",
+    "lat": 39.337318,
+    "lon": -8.93906,
+    "country_code": "PT"
+  },
+  {
+    "id": 2735088,
+    "name": "Rio Meão",
+    "lat": 40.957748,
+    "lon": -8.57818,
+    "country_code": "PT"
+  },
+  {
+    "id": 2735083,
+    "name": "Rio Tinto",
+    "lat": 41.18259,
+    "lon": -8.55811,
+    "country_code": "PT"
+  },
+  {
+    "id": 2735116,
+    "name": "Rio de Loba",
+    "lat": 40.665958,
+    "lon": -7.87781,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263827,
+    "name": "Rio de Mouro",
+    "lat": 38.77457,
+    "lon": -9.3276,
+    "country_code": "PT"
+  },
+  {
+    "id": 2735012,
+    "name": "Ronfe",
+    "lat": 41.44146,
+    "lon": -8.38412,
+    "country_code": "PT"
+  },
+  {
+    "id": 3372677,
+    "name": "Rosto de Cão",
+    "lat": 37.75,
+    "lon": -25.65,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263667,
+    "name": "Sacavém",
+    "lat": 38.792019,
+    "lon": -9.10801,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263650,
+    "name": "Sagres",
+    "lat": 37.00864,
+    "lon": -8.94311,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734858,
+    "name": "Salreu",
+    "lat": 40.739712,
+    "lon": -8.5572,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263596,
+    "name": "Salvaterra de Magos",
+    "lat": 39.027882,
+    "lon": -8.7935,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263586,
+    "name": "Samora Correia",
+    "lat": 38.937092,
+    "lon": -8.87178,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734809,
+    "name": "Sande",
+    "lat": 41.7019,
+    "lon": -8.39246,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734803,
+    "name": "Sandim",
+    "lat": 41.03508,
+    "lon": -8.507,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734788,
+    "name": "Sangalhos",
+    "lat": 40.486778,
+    "lon": -8.46968,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263558,
+    "name": "Santa Bárbara de Nexe",
+    "lat": 37.10619,
+    "lon": -7.96648,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263547,
+    "name": "Santa Catarina da Serra",
+    "lat": 39.6796,
+    "lon": -8.68679,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263540,
+    "name": "Santa Cruz",
+    "lat": 32.683331,
+    "lon": -16.799999,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734729,
+    "name": "Santa Cruz do Bispo",
+    "lat": 41.225498,
+    "lon": -8.6836,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263523,
+    "name": "Santa Iria da Azoia",
+    "lat": 38.846291,
+    "lon": -9.08748,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263491,
+    "name": "Santana",
+    "lat": 32.799999,
+    "lon": -16.883329,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263480,
+    "name": "Santarém",
+    "lat": 39.23333,
+    "lon": -8.68333,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263458,
+    "name": "Santiago do Cacém",
+    "lat": 38.016941,
+    "lon": -8.69475,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263438,
+    "name": "Santo André",
+    "lat": 39.055321,
+    "lon": -8.24414,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263439,
+    "name": "Santo André",
+    "lat": 38.05444,
+    "lon": -8.75212,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263434,
+    "name": "Santo Antão do Tojal",
+    "lat": 38.851509,
+    "lon": -9.13975,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263426,
+    "name": "Santo António da Charneca",
+    "lat": 38.62561,
+    "lon": -9.03043,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734570,
+    "name": "Santo Tirso",
+    "lat": 41.342571,
+    "lon": -8.47746,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734215,
+    "name": "Seia",
+    "lat": 40.4151,
+    "lon": -7.70859,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734170,
+    "name": "Selho",
+    "lat": 41.41938,
+    "lon": -8.34599,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734140,
+    "name": "Senhora da Hora",
+    "lat": 41.186401,
+    "lon": -8.65172,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734106,
+    "name": "Sequeira",
+    "lat": 40.553638,
+    "lon": -7.22594,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734069,
+    "name": "Seroa",
+    "lat": 41.26511,
+    "lon": -8.42892,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263049,
+    "name": "Serpa",
+    "lat": 37.945808,
+    "lon": -7.59754,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262987,
+    "name": "Sertã",
+    "lat": 39.80846,
+    "lon": -8.09883,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734032,
+    "name": "Serzedelo",
+    "lat": 41.401279,
+    "lon": -8.36888,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734028,
+    "name": "Serzedo",
+    "lat": 41.405022,
+    "lon": -8.22926,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262957,
+    "name": "Sesimbra",
+    "lat": 38.444511,
+    "lon": -9.10149,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262963,
+    "name": "Setúbal",
+    "lat": 38.524399,
+    "lon": -8.8882,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733992,
+    "name": "Silvalde",
+    "lat": 40.993969,
+    "lon": -8.62608,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262944,
+    "name": "Silveira",
+    "lat": 39.111198,
+    "lon": -9.3643,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262926,
+    "name": "Silves",
+    "lat": 37.189209,
+    "lon": -8.43822,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262917,
+    "name": "Sines",
+    "lat": 37.956219,
+    "lon": -8.86979,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262912,
+    "name": "Sintra",
+    "lat": 38.800968,
+    "lon": -9.37826,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733941,
+    "name": "Sobrado",
+    "lat": 41.210411,
+    "lon": -8.45488,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262867,
+    "name": "Sobralinho",
+    "lat": 38.91703,
+    "lon": -9.02656,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262865,
+    "name": "Sobreda",
+    "lat": 38.649609,
+    "lon": -9.18977,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733902,
+    "name": "Sobreira",
+    "lat": 41.523708,
+    "lon": -7.80234,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733851,
+    "name": "Soure",
+    "lat": 40.059891,
+    "lon": -8.62605,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733812,
+    "name": "Souto",
+    "lat": 40.986752,
+    "lon": -8.6223,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262815,
+    "name": "Souto da Carpalhosa",
+    "lat": 39.845692,
+    "lon": -8.82332,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734246,
+    "name": "Sátão",
+    "lat": 40.741779,
+    "lon": -7.73286,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263393,
+    "name": "São Bartolomeu de Messines",
+    "lat": 37.260239,
+    "lon": -8.2867,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263377,
+    "name": "São Brás de Alportel",
+    "lat": 37.153099,
+    "lon": -7.88752,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263352,
+    "name": "São Domingos de Rana",
+    "lat": 38.701229,
+    "lon": -9.3276,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734523,
+    "name": "São Félix da Marinha",
+    "lat": 41.035549,
+    "lon": -8.62258,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734493,
+    "name": "São João",
+    "lat": 40.868019,
+    "lon": -8.60672,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734484,
+    "name": "São João da Madeira",
+    "lat": 40.90229,
+    "lon": -8.48969,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263326,
+    "name": "São João da Talha",
+    "lat": 38.821831,
+    "lon": -9.09079,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263327,
+    "name": "São João das Lampas",
+    "lat": 38.87376,
+    "lon": -9.39842,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734473,
+    "name": "São João de Ver",
+    "lat": 40.955269,
+    "lon": -8.55117,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263322,
+    "name": "São João dos Montes",
+    "lat": 38.939442,
+    "lon": -9.01892,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734434,
+    "name": "São Mamede de Infesta",
+    "lat": 41.20042,
+    "lon": -8.60251,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734395,
+    "name": "São Miguel do Couto",
+    "lat": 41.331669,
+    "lon": -8.46185,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263245,
+    "name": "São Pedro da Cadeira",
+    "lat": 39.069832,
+    "lon": -9.37174,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734363,
+    "name": "São Pedro da Cova",
+    "lat": 41.155079,
+    "lon": -8.50412,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734351,
+    "name": "São Pedro do Sul",
+    "lat": 40.755371,
+    "lon": -8.07265,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734339,
+    "name": "São Romão do Coronado",
+    "lat": 41.285439,
+    "lon": -8.5632,
+    "country_code": "PT"
+  },
+  {
+    "id": 2734338,
+    "name": "São Roque",
+    "lat": 40.872162,
+    "lon": -8.47149,
+    "country_code": "PT"
+  },
+  {
+    "id": 3372589,
+    "name": "São Roque do Pico",
+    "lat": 38.51667,
+    "lon": -28.316669,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263207,
+    "name": "São Teotônio",
+    "lat": 37.512821,
+    "lon": -8.70708,
+    "country_code": "PT"
+  },
+  {
+    "id": 2263197,
+    "name": "São Vicente",
+    "lat": 32.79673,
+    "lon": -17.04323,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733660,
+    "name": "Tavarede",
+    "lat": 40.170792,
+    "lon": -8.84566,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262744,
+    "name": "Tavira",
+    "lat": 37.127338,
+    "lon": -7.64861,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733628,
+    "name": "Teixoso",
+    "lat": 40.31448,
+    "lon": -7.45759,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733601,
+    "name": "Telões",
+    "lat": 41.310539,
+    "lon": -8.11101,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262687,
+    "name": "Terrugem",
+    "lat": 38.70647,
+    "lon": -9.28693,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262644,
+    "name": "Tomar",
+    "lat": 39.60199,
+    "lon": -8.40924,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733533,
+    "name": "Tondela",
+    "lat": 40.51667,
+    "lon": -8.08333,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262582,
+    "name": "Torres Novas",
+    "lat": 39.48114,
+    "lon": -8.53949,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262581,
+    "name": "Torres Vedras",
+    "lat": 39.091091,
+    "lon": -9.2586,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262544,
+    "name": "Trafaria",
+    "lat": 38.672218,
+    "lon": -9.23268,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262540,
+    "name": "Tramagal",
+    "lat": 39.450001,
+    "lon": -8.25,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262478,
+    "name": "Turquel",
+    "lat": 39.464119,
+    "lon": -8.97743,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262465,
+    "name": "Unhos",
+    "lat": 38.82589,
+    "lon": -9.12231,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733304,
+    "name": "Urgeses",
+    "lat": 41.4272,
+    "lon": -8.29796,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733272,
+    "name": "Vagos",
+    "lat": 40.556,
+    "lon": -8.68175,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733262,
+    "name": "Valadares",
+    "lat": 41.147369,
+    "lon": -7.9812,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733249,
+    "name": "Valbom",
+    "lat": 41.132469,
+    "lon": -8.56414,
+    "country_code": "PT"
+  },
+  {
+    "id": 2262373,
+    "name": "Vale da Amoreira",
+    "lat": 39.069691,
+    "lon": -7.69849,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733153,
+    "name": "Vale de Cambra",
+    "lat": 40.849701,
+    "lon": -8.39389,
+    "country_code": "PT"
+  },
+  {
+    "id": 2733038,
+    "name": "Valega",
+    "lat": 40.836288,
+    "lon": -8.58061,
+    "country_code": "PT"
+  },
+  {
+    "id": 6697257,
+    "name": "Valença",
+    "lat": 42.024181,
+    "lon": -8.63474,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732980,
+    "name": "Valongo",
+    "lat": 40.616669,
+    "lon": -8.45,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732978,
+    "name": "Valongo",
+    "lat": 41.195011,
+    "lon": -8.51027,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732965,
+    "name": "Valpaços",
+    "lat": 41.60746,
+    "lon": -7.31088,
+    "country_code": "PT"
+  },
+  {
+    "id": 2261760,
+    "name": "Venda do Pinheiro",
+    "lat": 38.923649,
+    "lon": -9.23178,
+    "country_code": "PT"
+  },
+  {
+    "id": 2261740,
+    "name": "Vendas Novas",
+    "lat": 38.677059,
+    "lon": -8.45792,
+    "country_code": "PT"
+  },
+  {
+    "id": 2261732,
+    "name": "Ventosa",
+    "lat": 39.126961,
+    "lon": -9.08424,
+    "country_code": "PT"
+  },
+  {
+    "id": 2261697,
+    "name": "Vialonga",
+    "lat": 38.870941,
+    "lon": -9.06823,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732773,
+    "name": "Viana do Castelo",
+    "lat": 41.69323,
+    "lon": -8.83287,
+    "country_code": "PT"
+  },
+  {
+    "id": 2261673,
+    "name": "Vieira de Leiria",
+    "lat": 39.86945,
+    "lon": -8.93238,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732705,
+    "name": "Vila Cha",
+    "lat": 40.866669,
+    "lon": -8.46667,
+    "country_code": "PT"
+  },
+  {
+    "id": 2261639,
+    "name": "Vila Franca de Xira",
+    "lat": 38.95525,
+    "lon": -8.98966,
+    "country_code": "PT"
+  },
+  {
+    "id": 3372472,
+    "name": "Vila Franca do Campo",
+    "lat": 37.716671,
+    "lon": -25.433331,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732626,
+    "name": "Vila Frescainha",
+    "lat": 41.53846,
+    "lon": -8.63971,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732551,
+    "name": "Vila Nova da Telha",
+    "lat": 41.071701,
+    "lon": -8.64146,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732547,
+    "name": "Vila Nova de Famalicão",
+    "lat": 41.40797,
+    "lon": -8.51978,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732544,
+    "name": "Vila Nova de Gaia",
+    "lat": 41.133629,
+    "lon": -8.61742,
+    "country_code": "PT"
+  },
+  {
+    "id": 2261617,
+    "name": "Vila Nova de Milfontes",
+    "lat": 37.72377,
+    "lon": -8.78278,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732516,
+    "name": "Vila Praia de Âncora",
+    "lat": 41.810982,
+    "lon": -8.85255,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732438,
+    "name": "Vila Real",
+    "lat": 41.300621,
+    "lon": -7.74413,
+    "country_code": "PT"
+  },
+  {
+    "id": 2261598,
+    "name": "Vila Real de Santo António",
+    "lat": 37.195,
+    "lon": -7.41766,
+    "country_code": "PT"
+  },
+  {
+    "id": 2261577,
+    "name": "Vila Viçosa",
+    "lat": 38.777699,
+    "lon": -7.41793,
+    "country_code": "PT"
+  },
+  {
+    "id": 2261651,
+    "name": "Vila de Porto Santo",
+    "lat": 33.049999,
+    "lon": -16.33333,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732649,
+    "name": "Vila do Conde",
+    "lat": 41.354809,
+    "lon": -8.7434,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732475,
+    "name": "Vilar de Andorinho",
+    "lat": 41.10751,
+    "lon": -8.59632,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732444,
+    "name": "Vilar do Paraíso",
+    "lat": 41.089741,
+    "lon": -8.6211,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732404,
+    "name": "Vilarinho",
+    "lat": 41.35955,
+    "lon": -8.33123,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732312,
+    "name": "Vilela",
+    "lat": 41.225109,
+    "lon": -7.60338,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732265,
+    "name": "Viseu",
+    "lat": 40.661011,
+    "lon": -7.90971,
+    "country_code": "PT"
+  },
+  {
+    "id": 2732241,
+    "name": "Vizela",
+    "lat": 41.38242,
+    "lon": -8.24887,
+    "country_code": "PT"
+  },
+  {
+    "id": 2743304,
+    "name": "Águas Santas",
+    "lat": 41.210609,
+    "lon": -8.5866,
+    "country_code": "PT"
+  },
+  {
+    "id": 2743292,
+    "name": "Águeda",
+    "lat": 40.577202,
+    "lon": -8.44442,
+    "country_code": "PT"
+  },
+  {
+    "id": 2742661,
+    "name": "Árvore",
+    "lat": 41.339218,
+    "lon": -8.71806,
+    "country_code": "PT"
+  },
+  {
+    "id": 2268406,
+    "name": "Évora",
+    "lat": 38.566669,
+    "lon": -7.9,
+    "country_code": "PT"
+  },
+  {
+    "id": 2738707,
+    "name": "Ílhavo",
+    "lat": 40.599899,
+    "lon": -8.66732,
+    "country_code": "PT"
+  },
+  {
+    "id": 2265485,
+    "name": "Óbidos",
+    "lat": 39.36055,
+    "lon": -9.1567,
+    "country_code": "PT"
+  }
+]
