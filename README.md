@@ -1,66 +1,81 @@
-# Lista de Cidades - OpenWeatherMap (API)
+# Cidades de Portugal
 
 ### Índice
+* [O que é?](#o-que-é)
+* [Ficheiros](#ficheiros)
+* [Formato JSON](#formato-json)
+* [Base de Dados](#base-de-dados)
+* [Como contribuir?](#como-contribuir)
 * [Contribuidores](#contribuidores)
-* [Exemplos](#exemplos)
-* [Bases de Dados](#bd)
-* [Mundial](#mundial)
-* [Objetivo](#objetivo)
-* [Original](#original)
-* [Países](#países)
+* [Histórico](#histórico)
 
 ## O que é?
-Depois de várias tentativas, sem sucesso, para encontrar a lista de cidades portuguesas para a API [OpenWeatherMap](http://openweathermap.org/) decidi criar este repositório pois sei que poderá ser útil a programadores que pretendam, tal como eu, utilizar esta API com as cidades portuguesas.
 
-Este repositório disponibiliza uma [lista de cidades portuguesas](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_cities.txt) em que cada linha se divide em cinco colunas:
-* *id:* Código de identificação da cidade na API
-* *nm:* Nome da cidade
-* *lat:* Latitude
-* *lon:* Longitude
-* *countryCode:* Código do país
+Este repositório disponibiliza uma lista completa de cidades de Portugal em formato **JSON**, com os respetivos nomes corretamente acentuados e pontuados. É o recurso principal deste projeto, focado na comunidade portuguesa.
 
-**NOTA:** Nomes de cidades com mais de uma palavra são separados por '_' (underscore) por forma a permitir identificar corretamente cada coluna do ficheiro.
+## Ficheiros
+
+| Ficheiro | Descrição |
+|---|---|
+| [`pt_cities.json`](pt_cities.json) | Lista de cidades portuguesas em formato JSON ✅ |
+| [`pt_cities_MySql.sql`](pt_cities_MySql.sql) | SQL de inserção das cidades em base de dados MySQL |
+
+## Formato JSON
+
+O ficheiro [`pt_cities.json`](pt_cities.json) contém um array de objetos com os seguintes campos:
+
+```json
+[
+  {
+    "id": 2267057,
+    "nome": "Lisboa",
+    "lat": 38.716671,
+    "lon": -9.13333,
+    "pais": "PT"
+  }
+]
+```
+
+* **id** — Identificador único da cidade
+* **nome** — Nome da cidade (corretamente acentuado)
+* **lat** — Latitude
+* **lon** — Longitude
+* **pais** — Código do país (ISO 3166-1 alpha-2)
+
+## Base de Dados
+
+O ficheiro [`pt_cities_MySql.sql`](pt_cities_MySql.sql) contém o SQL de inserção das cidades numa tabela MySQL com a seguinte estrutura:
+
+```sql
+INSERT INTO `cities` (`id`, `name`, `latitude`, `longitude`, `country_code`) VALUES
+(2267057, 'Lisboa', 38.716671, -9.13333, 'PT'),
+...
+```
 
 ## Como contribuir?
-A contribuição para este repositório é livre, tal como a sua utilização. No entanto, melhorias ou deteção de erros são muito bem vindas e querem-se!
 
-Para contribuir, basta fazer *clone* deste repositório, fazer as alterações desejadas e criar uma *pull request* que, se a contribuição for benéfica para este projeto, será imediatamente aceite. 
+A contribuição para este repositório é livre, tal como a sua utilização. Melhorias e deteção de erros são muito bem-vindas!
+
+Para contribuir, basta fazer *fork* deste repositório, fazer as alterações desejadas e criar uma *pull request* que, se a contribuição for benéfica para este projeto, será imediatamente aceite.
 
 Pode ser feita a contribuição de:
-* Listas de cidades de outro país
-* Exemplos de extração das cidades numa linguagem, que não esteja já no repositório
-* Correção de erros ortográficos ou bugs
+* Correção de nomes de cidades (acentuação, grafia)
+* Adição de cidades em falta
+* Exemplos de utilização em novas linguagens de programação
 
-### Objetivo
-Disponibilizar a toda a comunidade de programadores portugueses, ou provenientes de qualquer outro país, uma lista com as cidades do seu país na API [OpenWeatherMap](http://openweathermap.org) com a devida facilidade de extração de informação do ficheiro em diversas linguagens de programação.
+## Contribuidores
 
-Assim, o objetivo global é conseguir reunir-se neste repositório as listas das cidades de todos os países com exemplos na maior parte das linguagens. 
+Um muito obrigado aos contribuidores deste projeto.
+* Exemplo [JavaScript](pt_example.js): [@alpha-oliveira](https://github.com/alpha-oliveira)
 
-### Exemplos
-*Exemplos de extração das cidades do ficheiro para código, em diversas linguagens.*
+## Histórico
 
-* [C#](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_example.cs)
-* [Java](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_example.java)
-* [JavaScript](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_example.js)
+Este repositório foi originalmente criado para disponibilizar a lista de cidades portuguesas para a API [OpenWeatherMap](http://openweathermap.org/). Os ficheiros originais são mantidos por razões históricas:
 
-#### BD
-* [MySQL](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_cities_MySql.sql) *Código de inserção das cidades em base de dados MySQL*
+* [`pt_cities.txt`](pt_cities.txt) — Lista original no formato da API OpenWeatherMap
+* [`world_cities.txt`](world_cities.txt) — Lista original de cidades do mundo (OpenWeatherMap)
+* [`pt_example.cs`](pt_example.cs) — Exemplo de leitura do ficheiro `.txt` em C#
+* [`pt_example.java`](pt_example.java) — Exemplo de leitura do ficheiro `.txt` em Java
+* [`pt_example.js`](pt_example.js) — Exemplo de leitura do ficheiro `.txt` em JavaScript
 
-### Mundial
-*Lista de todas as cidades do mundo*
-
-* [WorldCities](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/world_cities.txt)
-
-### Original
-*Lista original de cidades OpenWeatherMaps*
-
-* [OpenWeatherMaps_CityList](http://openweathermap.org/help/city_list.txt)
-
-### Países
-*Lista de cidades de cada país.*
-
-* [Portugal](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_cities.txt)
-
-### Contribuidores
-Um muito obrigado aos contribuidores deste pequeno, mas útil, projeto.
-* Exemplo [JavaScript](https://github.com/henriquev16/OpenWeatherMap-ListaCidadesPortugal/blob/master/pt_example.js): [@alpha-oliveira](https://github.com/alpha-oliveira)
+> **Nota:** O link oficial da lista de cidades da OpenWeatherMap (`http://openweathermap.org/help/city_list.txt`) já não se encontra disponível.
