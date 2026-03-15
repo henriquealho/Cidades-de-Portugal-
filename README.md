@@ -24,11 +24,11 @@ Este repositório disponibiliza uma [lista de cidades portuguesas](https://githu
 ## Como contribuir?
 A contribuição para este repositório é livre, tal como a sua utilização. No entanto, melhorias ou deteção de erros são muito bem vindas e querem-se!
 
-Para contribuir, basta fazer *fork* deste repositório, fazer as alterações desejadas e criar uma *pull request* que, se a contribuição for benéfica para este projeto, será imediatamente aceite. 
+Para contribuir, basta fazer *clone* deste repositório, fazer as alterações desejadas e criar uma *pull request* que, se a contribuição for benéfica para este projeto, será imediatamente aceite. 
 
 Pode ser feita a contribuição de:
 * Listas de cidades de outro país
-* Exemplos de extração das cidades numa linguagem de programação, que não esteja já no repositório
+* Exemplos de extração das cidades numa linguagem, que não esteja já no repositório
 * Correção de erros ortográficos ou bugs
 
 ### Objetivo
