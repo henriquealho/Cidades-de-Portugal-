@@ -31,7 +31,10 @@ O ficheiro [`pt_cities.json`](pt_cities.json) contém um array de objetos com os
     "name": "Lisboa",
     "lat": 38.716671,
     "lon": -9.13333,
-    "country_code": "PT"
+    "country_code": "PT",
+    "district": "Lisboa",
+    "province": "Estremadura",
+    "region": "Lisboa e Vale do Tejo"
   }
 ]
 ```
@@ -41,14 +44,29 @@ O ficheiro [`pt_cities.json`](pt_cities.json) contém um array de objetos com os
 * **lat** — Latitude
 * **lon** — Longitude
 * **country_code** — Código do país (ISO 3166-1 alpha-2)
+* **district** — Distrito (ex: Lisboa, Porto, Faro)
+* **province** — Província histórica (ex: Estremadura, Minho, Algarve)
+* **region** — Região (ex: Norte, Centro, Lisboa e Vale do Tejo, Alentejo, Algarve, Região Autónoma dos Açores, Região Autónoma da Madeira)
 
 ## Base de Dados
 
-O ficheiro [`pt_cities_MySql.sql`](pt_cities_MySql.sql) contém o SQL de inserção das cidades numa tabela MySQL com a seguinte estrutura:
+O ficheiro [`pt_cities_MySql.sql`](pt_cities_MySql.sql) contém o SQL de criação e inserção das cidades numa tabela MySQL com a seguinte estrutura:
 
 ```sql
-INSERT INTO `cities` (`id`, `name`, `latitude`, `longitude`, `country_code`) VALUES
-(2267057, 'Lisboa', 38.716671, -9.13333, 'PT'),
+CREATE TABLE IF NOT EXISTS `cities` (
+  `id` INT NOT NULL,
+  `name` VARCHAR(100) NOT NULL,
+  `latitude` DECIMAL(10,6) NOT NULL,
+  `longitude` DECIMAL(10,6) NOT NULL,
+  `country_code` VARCHAR(2) NOT NULL,
+  `district` VARCHAR(100) NOT NULL,
+  `province` VARCHAR(100) NOT NULL,
+  `region` VARCHAR(100) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+INSERT INTO `cities` (`id`, `name`, `latitude`, `longitude`, `country_code`, `district`, `province`, `region`) VALUES
+(2267057, 'Lisboa', 38.716671, -9.13333, 'PT', 'Lisboa', 'Estremadura', 'Lisboa e Vale do Tejo'),
 ...
 ```
 
@@ -61,7 +79,7 @@ Para contribuir, basta fazer *fork* deste repositório, fazer as alterações de
 Pode ser feita a contribuição de:
 * Correção de nomes de cidades (acentuação, grafia)
 * Adição de cidades em falta
-* Adição da região, provincia e distrito a cada cidade
+* Correção da região, província ou distrito de cada cidade
 
 ## Contribuidores
 
