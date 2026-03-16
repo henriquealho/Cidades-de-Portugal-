@@ -17,7 +17,7 @@ Este repositório disponibiliza uma lista completa de cidades de Portugal em for
 
 | Ficheiro | Descrição |
 |---|---|
-| [`pt_cities.json`](pt_cities.json) | Lista de cidades portuguesas em formato JSON ✅ |
+| [`pt_cities.json`](pt_cities.json) | Lista de cidades portuguesas em formato JSON |
 | [`pt_cities_MySql.sql`](pt_cities_MySql.sql) | SQL de inserção das cidades em base de dados MySQL |
 
 ## Formato JSON
@@ -61,6 +61,7 @@ Para contribuir, basta fazer *fork* deste repositório, fazer as alterações de
 Pode ser feita a contribuição de:
 * Correção de nomes de cidades (acentuação, grafia)
 * Adição de cidades em falta
+* Adição da região, provincia e distrito a cada cidade
 
 ## Contribuidores
 
